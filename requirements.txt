@@ -1,0 +1,15 @@
+# --- Librerías principales de LangChain ---
+langchain==0.2.7
+langchain-community==0.2.7
+langchain-text-splitters==0.2.2   # para cortar las entrevistas en fragmentos
+
+# --- Vector store local ---
+chromadb==0.5.4                   # almacén de embeddings para recuperación semántica
+
+# --- Modelos de embeddings (Hugging Face) ---
+sentence-transformers==3.0.0      # biblioteca que descarga y usa modelos tipo BAAI/bge-m3
+
+# --- Lectura de documentos ---
+unstructured==0.14.9              # carga PDFs, DOCX, TXT de forma automática
+pdfminer.six==20231228            # soporte interno de PDF
+docx2txt==0.8                     # soporte interno de DOCX

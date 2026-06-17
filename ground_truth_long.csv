@@ -1,0 +1,241 @@
+interview_id,question_id,question,ground_truth,notes
+0,Q1,What is the patient's main concern?,"The patient is seeking counseling for multiple longstanding issues, including depression and anxiety.",None.
+0,Q2,Are suicidal thoughts mentioned in the interview?,"No, suicidal thoughts are not mentioned.",None.
+0,Q3,What explicit emotions are mentioned in the interview?,"depressed, anxious",None.
+0,Q4,What behavior or subjective experience does the patient describe?,"The patient reports a history of sexual abuse, breast cancer survivorship, lifelong insomnia, longstanding depression, beginning anxiety, low self-esteem, and no prior counseling.",None.
+0,Q5,"Is there any mention of risk, self-harm, or urgent referral?","No mention of self-harm, urgent referral, or immediate risk is found.",None.
+35,Q1,What is the patient's main concern?,The patient is distressed about not having enough quality time with her boyfriend.,None.
+35,Q2,Are suicidal thoughts mentioned in the interview?,"No, suicidal thoughts are not mentioned.",None.
+35,Q3,What explicit emotions are mentioned in the interview?,"depressed, resentful",None.
+35,Q4,What behavior or subjective experience does the patient describe?,"The patient reports stressing over everything, feeling resentment toward her boyfriend when they do not have enough quality time, breaking down easily, and feeling depressed.",None.
+35,Q5,"Is there any mention of risk, self-harm, or urgent referral?","No mention of self-harm, urgent referral, or immediate risk is found.",None.
+45,Q1,What is the patient's main concern?,The patient is concerned that her husband is depressed and hopeless again after returning home from the hospital.,None.
+45,Q2,Are suicidal thoughts mentioned in the interview?,"No, suicidal thoughts are not mentioned.",None.
+45,Q3,What explicit emotions are mentioned in the interview?,"angry, depressed, hopeless",None.
+45,Q4,What behavior or subjective experience does the patient describe?,"The patient reports that after coming home from the hospital, her husband was angry, then wonderful for a time, and is now depressed and hopeless again.",None.
+45,Q5,"Is there any mention of risk, self-harm, or urgent referral?","No mention of self-harm, urgent referral, or immediate risk is found.",None.
+49,Q1,What is the patient's main concern?,The patient wants to know how to feel content from day to day.,None.
+49,Q2,Are suicidal thoughts mentioned in the interview?,"No, suicidal thoughts are not mentioned.",None.
+49,Q3,What explicit emotions are mentioned in the interview?,No explicit emotions are mentioned.,None.
+49,Q4,What behavior or subjective experience does the patient describe?,The patient asks how to reach a state of day-to-day contentment.,None.
+49,Q5,"Is there any mention of risk, self-harm, or urgent referral?","No mention of self-harm, urgent referral, or immediate risk is found.",None.
+87,Q1,What is the patient's main concern?,The patient reports having started cutting again and is struggling to stop.,None.
+87,Q2,Are suicidal thoughts mentioned in the interview?,"No, suicidal thoughts are not mentioned.",None.
+87,Q3,What explicit emotions are mentioned in the interview?,No explicit emotions are mentioned.,None.
+87,Q4,What behavior or subjective experience does the patient describe?,"The patient reports resuming self-cutting, describes it as like an addiction, says the urge increases when trying to stop, and says drawing does not help.",None.
+87,Q5,"Is there any mention of risk, self-harm, or urgent referral?","Self-harm is mentioned, as the patient reports cutting themself again.",None.
+104,Q1,What is the patient's main concern?,"The patient is asking for help with depression, self-hatred, and feeling uncared for.",None.
+104,Q2,Are suicidal thoughts mentioned in the interview?,"No, suicidal thoughts are not mentioned.",None.
+104,Q3,What explicit emotions are mentioned in the interview?,"anxious, afraid, depressed",None.
+104,Q4,What behavior or subjective experience does the patient describe?,"The patient reports anxiety about starting middle school, becoming quiet and not acting like themself, not talking to anybody, having no friends, becoming depressed after their grandmother died, stopping school for a while, hating themself, and wanting someone to care for them.",None.
+104,Q5,"Is there any mention of risk, self-harm, or urgent referral?","No mention of self-harm, urgent referral, or immediate risk is found.",None.
+127,Q1,What is the patient's main concern?,The patient is worried about seeking evaluation or treatment for possible major depressive disorder.,"The patient says “I’m not really suicidal,” which mentions suicidality without clearly describing current suicidal intent."
+127,Q2,Are suicidal thoughts mentioned in the interview?,"No, suicidal thoughts are not mentioned.","The patient says “I’m not really suicidal,” which mentions suicidality without clearly describing current suicidal intent."
+127,Q3,What explicit emotions are mentioned in the interview?,"afraid, concerned","The patient says “I’m not really suicidal,” which mentions suicidality without clearly describing current suicidal intent."
+127,Q4,What behavior or subjective experience does the patient describe?,"The patient reports fear about diagnosis consequences, fear of antidepressants after a severe reaction, concern about being forced into treatment, not really taking care of themself, and wondering whether to rely on self-help instead.","The patient says “I’m not really suicidal,” which mentions suicidality without clearly describing current suicidal intent."
+127,Q5,"Is there any mention of risk, self-harm, or urgent referral?","No mention of self-harm, urgent referral, or immediate risk is found.","The patient says “I’m not really suicidal,” which mentions suicidality without clearly describing current suicidal intent."
+174,Q1,What is the patient's main concern?,The patient reports severe anxiety and panic attacks occurring at least once a week.,None.
+174,Q2,Are suicidal thoughts mentioned in the interview?,"No, suicidal thoughts are not mentioned.",None.
+174,Q3,What explicit emotions are mentioned in the interview?,anxious,None.
+174,Q4,What behavior or subjective experience does the patient describe?,The patient reports having a panic attack at least once a week and suffering from severe anxiety.,None.
+174,Q5,"Is there any mention of risk, self-harm, or urgent referral?","No mention of self-harm, urgent referral, or immediate risk is found.",None.
+200,Q1,What is the patient's main concern?,The patient is distressed by fear and panic symptoms when around children and wants them to stop.,None.
+200,Q2,Are suicidal thoughts mentioned in the interview?,"No, suicidal thoughts are not mentioned.",None.
+200,Q3,What explicit emotions are mentioned in the interview?,scared,None.
+200,Q4,What behavior or subjective experience does the patient describe?,"The patient reports heavy breathing, sweating, acting strangely while trying to fight the feeling, having panic attacks, and feeling scared around children.",None.
+200,Q5,"Is there any mention of risk, self-harm, or urgent referral?","No mention of self-harm, urgent referral, or immediate risk is found.",None.
+202,Q1,What is the patient's main concern?,The patient is struggling with anxiety while dealing with stress about going back and forth between homes.,None.
+202,Q2,Are suicidal thoughts mentioned in the interview?,"Yes, suicidal thoughts are mentioned.",None.
+202,Q3,What explicit emotions are mentioned in the interview?,anxious,None.
+202,Q4,What behavior or subjective experience does the patient describe?,"The patient reports being sick and tired of going back and forth, wanting to stay at their mother’s house, having had anxiety attacks, suicidal thoughts, and self-harm in the past, and currently going through anxiety while their therapist is unavailable.",None.
+202,Q5,"Is there any mention of risk, self-harm, or urgent referral?","Past self-harm and suicidal thoughts are explicitly mentioned, and hotline use is recommended if suicidal ideation worsens.",None.
+221,Q1,What is the patient's main concern?,The patient is worried that her boyfriend may want to hurt her sexually.,None.
+221,Q2,Are suicidal thoughts mentioned in the interview?,"No, suicidal thoughts are not mentioned.",None.
+221,Q3,What explicit emotions are mentioned in the interview?,anxious,None.
+221,Q4,What behavior or subjective experience does the patient describe?,"The patient reports anxiety and a recurring feeling that her boyfriend wants to hurt her because he said he was interested in BDSM intercourse, although they have not tried it.",None.
+221,Q5,"Is there any mention of risk, self-harm, or urgent referral?","Clear interpersonal safety risk is mentioned, as the patient says she feels her boyfriend wants to hurt her.",None.
+230,Q1,What is the patient's main concern?,"The patient is concerned about feeling watched, fear of break-ins, and difficulty tolerating noise.",None.
+230,Q2,Are suicidal thoughts mentioned in the interview?,"No, suicidal thoughts are not mentioned.",None.
+230,Q3,What explicit emotions are mentioned in the interview?,No explicit emotions are mentioned.,None.
+230,Q4,What behavior or subjective experience does the patient describe?,"The patient reports putting chairs under door knobs because of fear someone might break in, being unable to stand loud noises, finding the grocery store too noisy, and feeling like people are looking at them.",None.
+230,Q5,"Is there any mention of risk, self-harm, or urgent referral?","No mention of self-harm, urgent referral, or immediate risk is found.",None.
+250,Q1,What is the patient's main concern?,The patient is struggling with how to move on while deciding how much contact to have with their child after separation.,None.
+250,Q2,Are suicidal thoughts mentioned in the interview?,"No, suicidal thoughts are not mentioned.",None.
+250,Q3,What explicit emotions are mentioned in the interview?,No explicit emotions are mentioned.,None.
+250,Q4,What behavior or subjective experience does the patient describe?,"The patient reports that their ex-wife uses their child as a pawn, believes the child misses them, wants to move on and not live in the past, and is unsure whether to see the child as much as possible or very little.",None.
+250,Q5,"Is there any mention of risk, self-harm, or urgent referral?","No mention of self-harm, urgent referral, or immediate risk is found.",None.
+259,Q1,What is the patient's main concern?,The patient is struggling with their mother trying to control their life while they still live at home for financial reasons.,None.
+259,Q2,Are suicidal thoughts mentioned in the interview?,"No, suicidal thoughts are not mentioned.",None.
+259,Q3,What explicit emotions are mentioned in the interview?,No explicit emotions are mentioned.,None.
+259,Q4,What behavior or subjective experience does the patient describe?,"The patient reports being in their early 20s, living with their parents because they cannot afford to live alone, and feeling that their mother is trying to control their life by requiring them to follow her rules.",None.
+259,Q5,"Is there any mention of risk, self-harm, or urgent referral?","No mention of self-harm, urgent referral, or immediate risk is found.",None.
+281,Q1,What is the patient's main concern?,The patient is struggling with conflict and estrangement with her daughter and is unsure what to do.,"The interviewer mentions possible abuse, but the patient does not explicitly describe abuse details."
+281,Q2,Are suicidal thoughts mentioned in the interview?,"No, suicidal thoughts are not mentioned.","The interviewer mentions possible abuse, but the patient does not explicitly describe abuse details."
+281,Q3,What explicit emotions are mentioned in the interview?,No explicit emotions are mentioned.,"The interviewer mentions possible abuse, but the patient does not explicitly describe abuse details."
+281,Q4,What behavior or subjective experience does the patient describe?,"The patient reports that her daughter refuses to talk to her, says she is remembering things from the past, blames her, says she hates her, and may live with her father instead.","The interviewer mentions possible abuse, but the patient does not explicitly describe abuse details."
+281,Q5,"Is there any mention of risk, self-harm, or urgent referral?","No mention of self-harm, urgent referral, or immediate risk is found.","The interviewer mentions possible abuse, but the patient does not explicitly describe abuse details."
+291,Q1,What is the patient's main concern?,The patient is struggling with the loss of contact with a child they had cared for and wants to know how to handle the situation.,None.
+291,Q2,Are suicidal thoughts mentioned in the interview?,"No, suicidal thoughts are not mentioned.",None.
+291,Q3,What explicit emotions are mentioned in the interview?,No explicit emotions are mentioned.,None.
+291,Q4,What behavior or subjective experience does the patient describe?,"The patient reports that after their brother broke up with his girlfriend, her son, who had spent weekends with the patient and the patient’s mother for two years, is no longer allowed to interact with them.",None.
+291,Q5,"Is there any mention of risk, self-harm, or urgent referral?","No mention of self-harm, urgent referral, or immediate risk is found.",None.
+347,Q1,What is the patient's main concern?,The patient is struggling with self-loathing and difficulty with sexual engagement after being raped by multiple men.,None.
+347,Q2,Are suicidal thoughts mentioned in the interview?,"No, suicidal thoughts are not mentioned.",None.
+347,Q3,What explicit emotions are mentioned in the interview?,self-loathing,None.
+347,Q4,What behavior or subjective experience does the patient describe?,"The patient reports having been raped by multiple men, being unable to stand the sight of themself, and wearing lingerie to become aroused enough to have sex with their wife.",None.
+347,Q5,"Is there any mention of risk, self-harm, or urgent referral?","No mention of self-harm, urgent referral, or immediate risk is found.",None.
+349,Q1,What is the patient's main concern?,The patient is seeking help coping with a very difficult divorce.,"The interviewer mentions crying, hating yourself, sadness, loss, and uncertainty, but these are not explicitly stated by the patient."
+349,Q2,Are suicidal thoughts mentioned in the interview?,"No, suicidal thoughts are not mentioned.","The interviewer mentions crying, hating yourself, sadness, loss, and uncertainty, but these are not explicitly stated by the patient."
+349,Q3,What explicit emotions are mentioned in the interview?,No explicit emotions are mentioned.,"The interviewer mentions crying, hating yourself, sadness, loss, and uncertainty, but these are not explicitly stated by the patient."
+349,Q4,What behavior or subjective experience does the patient describe?,"The patient reports going through a very bad divorce, feeling that their wife is making things impossible, and asking for help.","The interviewer mentions crying, hating yourself, sadness, loss, and uncertainty, but these are not explicitly stated by the patient."
+349,Q5,"Is there any mention of risk, self-harm, or urgent referral?","No mention of self-harm, urgent referral, or immediate risk is found.","The interviewer mentions crying, hating yourself, sadness, loss, and uncertainty, but these are not explicitly stated by the patient."
+361,Q1,What is the patient's main concern?,The patient is distressed about separation from her husband and wants to know if there is hope of getting back together.,None.
+361,Q2,Are suicidal thoughts mentioned in the interview?,"No, suicidal thoughts are not mentioned.",None.
+361,Q3,What explicit emotions are mentioned in the interview?,No explicit emotions are mentioned.,None.
+361,Q4,What behavior or subjective experience does the patient describe?,"The patient reports that she and her husband are separated, he does not want to talk to her, he says he does not love her anymore, and she would do anything to get him back.",None.
+361,Q5,"Is there any mention of risk, self-harm, or urgent referral?","No mention of self-harm, urgent referral, or immediate risk is found.",None.
+405,Q1,What is the patient's main concern?,The patient says they have never really known who they are.,None.
+405,Q2,Are suicidal thoughts mentioned in the interview?,"No, suicidal thoughts are not mentioned.",None.
+405,Q3,What explicit emotions are mentioned in the interview?,No explicit emotions are mentioned.,None.
+405,Q4,What behavior or subjective experience does the patient describe?,The patient reports not knowing what to say and never really having known who they are.,None.
+405,Q5,"Is there any mention of risk, self-harm, or urgent referral?","No mention of self-harm, urgent referral, or immediate risk is found.",None.
+412,Q1,What is the patient's main concern?,The patient is struggling to cope with the death of a childhood friend.,None.
+412,Q2,Are suicidal thoughts mentioned in the interview?,"No, suicidal thoughts are not mentioned.",None.
+412,Q3,What explicit emotions are mentioned in the interview?,No explicit emotions are mentioned.,None.
+412,Q4,What behavior or subjective experience does the patient describe?,"The patient reports that a good childhood friend died suddenly, that the loss affects them deeply, and that after about three months they still do not know how to cope.",None.
+412,Q5,"Is there any mention of risk, self-harm, or urgent referral?","No mention of self-harm, urgent referral, or immediate risk is found.",None.
+438,Q1,What is the patient's main concern?,The patient is seeking help for an emotionally abusive relationship that keeps getting worse.,None.
+438,Q2,Are suicidal thoughts mentioned in the interview?,"No, suicidal thoughts are not mentioned.",None.
+438,Q3,What explicit emotions are mentioned in the interview?,frustrated,None.
+438,Q4,What behavior or subjective experience does the patient describe?,"The patient reports being in an emotionally abusive relationship, repeated worsening fights, being unable to speak because he is louder, being kicked out of the house when trying to talk, and feeling like she is the only one fighting for the relationship.",None.
+438,Q5,"Is there any mention of risk, self-harm, or urgent referral?","Clear interpersonal safety risk is mentioned, as the patient describes an emotionally abusive relationship and being kicked out of the house.",None.
+440,Q1,What is the patient's main concern?,The patient is struggling with her partner’s verbal abuse and feeling scared.,None.
+440,Q2,Are suicidal thoughts mentioned in the interview?,"No, suicidal thoughts are not mentioned.",None.
+440,Q3,What explicit emotions are mentioned in the interview?,scared,None.
+440,Q4,What behavior or subjective experience does the patient describe?,"The patient reports that he is verbally abusive, yells at her when he gets mad, and that she feels scared at times.",None.
+440,Q5,"Is there any mention of risk, self-harm, or urgent referral?","Clear interpersonal safety risk is mentioned, as the patient reports verbal abuse and feeling scared.",None.
+459,Q1,What is the patient's main concern?,The patient is struggling with how to deal with her boyfriend’s violent outbursts.,None.
+459,Q2,Are suicidal thoughts mentioned in the interview?,"No, suicidal thoughts are not mentioned.",None.
+459,Q3,What explicit emotions are mentioned in the interview?,No explicit emotions are mentioned.,None.
+459,Q4,What behavior or subjective experience does the patient describe?,"The patient reports being in an eight-year relationship, says her boyfriend drinks a lot, experienced childhood trauma, and has violent outbursts.",None.
+459,Q5,"Is there any mention of risk, self-harm, or urgent referral?","Clear interpersonal safety risk is mentioned, as the patient reports violent outbursts.",None.
+487,Q1,What is the patient's main concern?,The patient is distressed by her husband’s repeated drinking and dishonesty about it.,None.
+487,Q2,Are suicidal thoughts mentioned in the interview?,"No, suicidal thoughts are not mentioned.",None.
+487,Q3,What explicit emotions are mentioned in the interview?,No explicit emotions are mentioned.,None.
+487,Q4,What behavior or subjective experience does the patient describe?,"The patient reports that her husband has resumed drinking, that she checks the alcohol in the house, confronts him about missing alcohol, and feels uncertain whether she is overreacting.",None.
+487,Q5,"Is there any mention of risk, self-harm, or urgent referral?","No mention of self-harm, urgent referral, or immediate risk is found.",None.
+493,Q1,What is the patient's main concern?,The patient is unsure how to disclose crossdressing to women he dates and whether to continue doing it.,None.
+493,Q2,Are suicidal thoughts mentioned in the interview?,"No, suicidal thoughts are not mentioned.",None.
+493,Q3,What explicit emotions are mentioned in the interview?,happy,None.
+493,Q4,What behavior or subjective experience does the patient describe?,"The patient reports crossdressing, liking to be feminine, being attracted to women, finding that this seems to bother girls he dates or asks out, and wondering whether to keep it secret, be upfront, stop, or continue because it makes him happy.",None.
+493,Q5,"Is there any mention of risk, self-harm, or urgent referral?","No mention of self-harm, urgent referral, or immediate risk is found.",None.
+500,Q1,What is the patient's main concern?,The patient is struggling with mistrust and repeated checking behaviors toward his partner despite having no evidence of cheating.,None.
+500,Q2,Are suicidal thoughts mentioned in the interview?,"No, suicidal thoughts are not mentioned.",None.
+500,Q3,What explicit emotions are mentioned in the interview?,No explicit emotions are mentioned.,None.
+500,Q4,What behavior or subjective experience does the patient describe?,"The patient reports repeatedly questioning his partner about texting, phone calls, and social media use, checking her phone records, and going through her phone, despite never finding any reason to think she is cheating.",None.
+500,Q5,"Is there any mention of risk, self-harm, or urgent referral?","No mention of self-harm, urgent referral, or immediate risk is found.",None.
+501,Q1,What is the patient's main concern?,The patient is struggling with not knowing whom to trust and distrusts even family and friends.,None.
+501,Q2,Are suicidal thoughts mentioned in the interview?,"No, suicidal thoughts are not mentioned.",None.
+501,Q3,What explicit emotions are mentioned in the interview?,No explicit emotions are mentioned.,None.
+501,Q4,What behavior or subjective experience does the patient describe?,"The patient reports that many people lie, has difficulty telling who speaks the truth, and does not trust family or friends.",None.
+501,Q5,"Is there any mention of risk, self-harm, or urgent referral?","No mention of self-harm, urgent referral, or immediate risk is found.",None.
+524,Q1,What is the patient's main concern?,The patient is distressed that her boyfriend ended the relationship after his father’s suicide and wants to understand why.,None.
+524,Q2,Are suicidal thoughts mentioned in the interview?,"No, suicidal thoughts are not mentioned.",None.
+524,Q3,What explicit emotions are mentioned in the interview?,No explicit emotions are mentioned.,None.
+524,Q4,What behavior or subjective experience does the patient describe?,"The patient reports that her boyfriend’s father died by suicide, that he says he cannot be there for her or love her anymore, and that he wants nothing to do with her.",None.
+524,Q5,"Is there any mention of risk, self-harm, or urgent referral?","No mention of self-harm, urgent referral, or immediate risk is found.",None.
+550,Q1,What is the patient's main concern?,The patient is struggling with jealousy that is negatively affecting her relationship.,None.
+550,Q2,Are suicidal thoughts mentioned in the interview?,"No, suicidal thoughts are not mentioned.",None.
+550,Q3,What explicit emotions are mentioned in the interview?,jealous,None.
+550,Q4,What behavior or subjective experience does the patient describe?,"The patient reports being a very jealous person, avoiding going out or doing things with other people because of this, and feeling unable to stop being jealous despite knowing it affects the relationship.",None.
+550,Q5,"Is there any mention of risk, self-harm, or urgent referral?","No mention of self-harm, urgent referral, or immediate risk is found.",None.
+554,Q1,What is the patient's main concern?,The patient is struggling with loneliness and reduced intimacy in his marriage.,None.
+554,Q2,Are suicidal thoughts mentioned in the interview?,"No, suicidal thoughts are not mentioned.",None.
+554,Q3,What explicit emotions are mentioned in the interview?,lonely,None.
+554,Q4,What behavior or subjective experience does the patient describe?,"The patient reports that his wife works late most days, they no longer have sex, he feels a loss of intimacy, and he has become close friends with a coworker.",None.
+554,Q5,"Is there any mention of risk, self-harm, or urgent referral?","No mention of self-harm, urgent referral, or immediate risk is found.",None.
+560,Q1,What is the patient's main concern?,The patient reports cheating during arguments in a relationship with limited sexual intimacy.,None.
+560,Q2,Are suicidal thoughts mentioned in the interview?,"No, suicidal thoughts are not mentioned.",None.
+560,Q3,What explicit emotions are mentioned in the interview?,No explicit emotions are mentioned.,None.
+560,Q4,What behavior or subjective experience does the patient describe?,"The patient reports that they do not have sex often, cheat when they argue, do not kiss or have unprotected sex with those partners, and describe the cheating as a one-time event with no repeat contact.",None.
+560,Q5,"Is there any mention of risk, self-harm, or urgent referral?","No mention of self-harm, urgent referral, or immediate risk is found.",None.
+564,Q1,What is the patient's main concern?,The patient is struggling with a long-term lack of sexual intimacy in the relationship and is considering leaving without hurting the children.,None.
+564,Q2,Are suicidal thoughts mentioned in the interview?,"No, suicidal thoughts are not mentioned.",None.
+564,Q3,What explicit emotions are mentioned in the interview?,lonely,None.
+564,Q4,What behavior or subjective experience does the patient describe?,"The patient reports that since their first child was born 15 years ago, sex has been almost nonexistent, occurring only every three or four months, that they have already tried counseling, and that they are considering moving on.",None.
+564,Q5,"Is there any mention of risk, self-harm, or urgent referral?","No mention of self-harm, urgent referral, or immediate risk is found.",None.
+671,Q1,What is the patient's main concern?,The patient is concerned about repeatedly being mean to their best friend and wants to understand why.,None.
+671,Q2,Are suicidal thoughts mentioned in the interview?,"No, suicidal thoughts are not mentioned.",None.
+671,Q3,What explicit emotions are mentioned in the interview?,No explicit emotions are mentioned.,None.
+671,Q4,What behavior or subjective experience does the patient describe?,The patient reports repeatedly being mean to their best friend and thinks it may be related to their mother being mean to them.,None.
+671,Q5,"Is there any mention of risk, self-harm, or urgent referral?","No mention of self-harm, urgent referral, or immediate risk is found.",None.
+692,Q1,What is the patient's main concern?,The patient is tired of her husband repeatedly not trusting her and accusing her of messing around.,None.
+692,Q2,Are suicidal thoughts mentioned in the interview?,"No, suicidal thoughts are not mentioned.",None.
+692,Q3,What explicit emotions are mentioned in the interview?,No explicit emotions are mentioned.,None.
+692,Q4,What behavior or subjective experience does the patient describe?,"The patient reports that her husband does not trust her because of their past and repeatedly accuses her of messing around, which she denies.",None.
+692,Q5,"Is there any mention of risk, self-harm, or urgent referral?","No mention of self-harm, urgent referral, or immediate risk is found.",None.
+710,Q1,What is the patient's main concern?,The patient is preoccupied with food and weight to the point that it interferes with daily activities.,None.
+710,Q2,Are suicidal thoughts mentioned in the interview?,"No, suicidal thoughts are not mentioned.",None.
+710,Q3,What explicit emotions are mentioned in the interview?,No explicit emotions are mentioned.,None.
+710,Q4,What behavior or subjective experience does the patient describe?,"The patient reports being obsessed with food and weight, feeling that it consumes daily activities, weighing themself 2–3 times a day, and reducing food intake.",None.
+710,Q5,"Is there any mention of risk, self-harm, or urgent referral?","No mention of self-harm, urgent referral, or immediate risk is found.",None.
+752,Q1,What is the patient's main concern?,The patient is worried about growing distance in his relationship and fears losing his girlfriend.,None.
+752,Q2,Are suicidal thoughts mentioned in the interview?,"No, suicidal thoughts are not mentioned.",None.
+752,Q3,What explicit emotions are mentioned in the interview?,No explicit emotions are mentioned.,None.
+752,Q4,What behavior or subjective experience does the patient describe?,The patient reports that his girlfriend has recently been spending more time texting and hanging out with a friend and is ignoring him more.,None.
+752,Q5,"Is there any mention of risk, self-harm, or urgent referral?","No mention of self-harm, urgent referral, or immediate risk is found.",None.
+777,Q1,What is the patient's main concern?,The patient wants guidance about having a baby with her boyfriend despite their current instability.,None.
+777,Q2,Are suicidal thoughts mentioned in the interview?,"No, suicidal thoughts are not mentioned.",None.
+777,Q3,What explicit emotions are mentioned in the interview?,No explicit emotions are mentioned.,None.
+777,Q4,What behavior or subjective experience does the patient describe?,"The patient reports dating her boyfriend for one month, wanting a baby, not working or driving, and not having talked to their parents about it.",None.
+777,Q5,"Is there any mention of risk, self-harm, or urgent referral?","No mention of self-harm, urgent referral, or immediate risk is found.",None.
+778,Q1,What is the patient's main concern?,The patient is unsure how to handle romantic feelings for a close friend while not feeling ready for a new relationship.,None.
+778,Q2,Are suicidal thoughts mentioned in the interview?,"No, suicidal thoughts are not mentioned.",None.
+778,Q3,What explicit emotions are mentioned in the interview?,No explicit emotions are mentioned.,None.
+778,Q4,What behavior or subjective experience does the patient describe?,"The patient reports kissing a close male friend, being told they should stay friends, recently getting out of a relationship, not being a sexual person, wanting to be with him, not feeling ready for another relationship, and being unsure whether he will want more than friendship.",None.
+778,Q5,"Is there any mention of risk, self-harm, or urgent referral?","No mention of self-harm, urgent referral, or immediate risk is found.",None.
+781,Q1,What is the patient's main concern?,The patient is asking how to support her best friend through a possible breakup while managing her own feelings for him.,None.
+781,Q2,Are suicidal thoughts mentioned in the interview?,"No, suicidal thoughts are not mentioned.",None.
+781,Q3,What explicit emotions are mentioned in the interview?,concerned,None.
+781,Q4,What behavior or subjective experience does the patient describe?,"The patient reports that her best friend is worried about his girlfriend leaving for college, is considering breaking up with her, seems torn up, and says he may never be able to love anyone again; she also reports still having a crush on him and wanting to help him.",None.
+781,Q5,"Is there any mention of risk, self-harm, or urgent referral?","No mention of self-harm, urgent referral, or immediate risk is found.",None.
+783,Q1,What is the patient's main concern?,The patient is unsure whether to stay in or leave an unstable on-and-off relationship.,None.
+783,Q2,Are suicidal thoughts mentioned in the interview?,"No, suicidal thoughts are not mentioned.",None.
+783,Q3,What explicit emotions are mentioned in the interview?,No explicit emotions are mentioned.,None.
+783,Q4,What behavior or subjective experience does the patient describe?,"The patient reports repeated breakups and reconciliations over two years, says his girlfriend acts as if nothing happened after breakups, describes her as demanding, and says he feels unable to give her everything she wants.",None.
+783,Q5,"Is there any mention of risk, self-harm, or urgent referral?","No mention of self-harm, urgent referral, or immediate risk is found.",None.
+788,Q1,What is the patient's main concern?,The patient is upset that her boyfriend was unsupportive during her emergency room visit and that they keep arguing.,None.
+788,Q2,Are suicidal thoughts mentioned in the interview?,"No, suicidal thoughts are not mentioned.",None.
+788,Q3,What explicit emotions are mentioned in the interview?,mad,None.
+788,Q4,What behavior or subjective experience does the patient describe?,"The patient reports going to the emergency room for a spine X-ray, her boyfriend not wanting to wait with her, him being twenty minutes late to pick her up, and ongoing bickering over small things.",None.
+788,Q5,"Is there any mention of risk, self-harm, or urgent referral?","No mention of self-harm, urgent referral, or immediate risk is found.",None.
+828,Q1,What is the patient's main concern?,The patient is confused about their gender and does not know how to answer when others ask.,None.
+828,Q2,Are suicidal thoughts mentioned in the interview?,"No, suicidal thoughts are not mentioned.",None.
+828,Q3,What explicit emotions are mentioned in the interview?,confused,None.
+828,Q4,What behavior or subjective experience does the patient describe?,"The patient reports being born a girl, looking like a boy, sometimes feeling like a different variation of gender, and usually stating their birth gender when asked because of confusion.",None.
+828,Q5,"Is there any mention of risk, self-harm, or urgent referral?","No mention of self-harm, urgent referral, or immediate risk is found.",None.
+845,Q1,What is the patient's main concern?,The patient is struggling to avoid eating junk food despite trying to eat healthier.,None.
+845,Q2,Are suicidal thoughts mentioned in the interview?,"No, suicidal thoughts are not mentioned.",None.
+845,Q3,What explicit emotions are mentioned in the interview?,No explicit emotions are mentioned.,None.
+845,Q4,What behavior or subjective experience does the patient describe?,The patient reports trying to work out and eat fruits and vegetables but repeatedly eating the junk food in the house.,None.
+845,Q5,"Is there any mention of risk, self-harm, or urgent referral?","No mention of self-harm, urgent referral, or immediate risk is found.",None.
+871,Q1,What is the patient's main concern?,The patient wants to know whether they are “really crazy.”,None.
+871,Q2,Are suicidal thoughts mentioned in the interview?,"No, suicidal thoughts are not mentioned.",None.
+871,Q3,What explicit emotions are mentioned in the interview?,No explicit emotions are mentioned.,None.
+871,Q4,What behavior or subjective experience does the patient describe?,The patient asks whether they are really crazy.,None.
+871,Q5,"Is there any mention of risk, self-harm, or urgent referral?","No mention of self-harm, urgent referral, or immediate risk is found.",None.
+877,Q1,What is the patient's main concern?,The patient is concerned about a behavior that causes bleeding but does not seem to cause infections or scars.,The exact behavior is not explicitly named by the patient.
+877,Q2,Are suicidal thoughts mentioned in the interview?,"No, suicidal thoughts are not mentioned.",The exact behavior is not explicitly named by the patient.
+877,Q3,What explicit emotions are mentioned in the interview?,concerned,The exact behavior is not explicitly named by the patient.
+877,Q4,What behavior or subjective experience does the patient describe?,The patient reports that the behavior does not cause infections or scars and that it does not bother them if it fills with blood.,The exact behavior is not explicitly named by the patient.
+877,Q5,"Is there any mention of risk, self-harm, or urgent referral?",Self-harm or self-injury is explicitly mentioned through a behavior that causes bleeding and possible body damage.,The exact behavior is not explicitly named by the patient.
+902,Q1,What is the patient's main concern?,The patient wants help dealing with stress and feeling less stressed out.,None.
+902,Q2,Are suicidal thoughts mentioned in the interview?,"No, suicidal thoughts are not mentioned.",None.
+902,Q3,What explicit emotions are mentioned in the interview?,stressed,None.
+902,Q4,What behavior or subjective experience does the patient describe?,The patient reports needing help handling stress and wanting to feel less stressed out.,None.
+902,Q5,"Is there any mention of risk, self-harm, or urgent referral?","No mention of self-harm, urgent referral, or immediate risk is found.",None.
+913,Q1,What is the patient's main concern?,The patient is bothered by people making jokes about everything.,None.
+913,Q2,Are suicidal thoughts mentioned in the interview?,"No, suicidal thoughts are not mentioned.",None.
+913,Q3,What explicit emotions are mentioned in the interview?,No explicit emotions are mentioned.,None.
+913,Q4,What behavior or subjective experience does the patient describe?,The patient reports that people make “jokes” about everything and seem to need to say something “funny” about everything.,None.
+913,Q5,"Is there any mention of risk, self-harm, or urgent referral?","No mention of self-harm, urgent referral, or immediate risk is found.",None.

@@ -1,0 +1,31 @@
+{
+  "timestamp": "2026-04-16T16:44:00.522227",
+  "input_file": "rag_eval_dataset.csv",
+  "output_dir": "ragas_eval_outputs",
+  "judge_model": "Qwen/Qwen2.5-7B-Instruct",
+  "embedding_model": null,
+  "metrics_requested": [
+    "faithfulness",
+    "answer_relevancy"
+  ],
+  "n_input_rows": 10,
+  "n_valid_after_cleaning": 10,
+  "n_selected_rows": 3,
+  "n_rows_output": 3,
+  "n_rows_with_any_metric_value": 3,
+  "start_row": 0,
+  "metric_coverage": {
+    "faithfulness": {
+      "mean": 1.0,
+      "n_valid": 3,
+      "n_nan": 0,
+      "coverage": 1.0
+    },
+    "answer_relevancy": {
+      "mean": 0.38416199312754945,
+      "n_valid": 3,
+      "n_nan": 0,
+      "coverage": 1.0
+    }
+  }
+}

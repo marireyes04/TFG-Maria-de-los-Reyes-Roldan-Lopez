@@ -1,0 +1,683 @@
+interview_id,question_id,question,ground_truth,answer,contexts,notes,error
+0,Q1,What is the patient's main concern?,"The patient is seeking counseling for multiple longstanding issues, including depression and anxiety.",Not mentioned in the interview.,[],None.,
+0,Q2,Are suicidal thoughts mentioned in the interview?,"No, suicidal thoughts are not mentioned.",Not mentioned in the interview.,[],None.,
+0,Q3,What explicit emotions are mentioned in the interview?,"depressed, anxious",Not mentioned in the interview.,[],None.,
+0,Q4,What behavior or subjective experience does the patient describe?,"The patient reports a history of sexual abuse, breast cancer survivorship, lifelong insomnia, longstanding depression, beginning anxiety, low self-esteem, and no prior counseling.",Not mentioned in the interview.,[],None.,
+0,Q5,"Is there any mention of risk, self-harm, or urgent referral?","No mention of self-harm, urgent referral, or immediate risk is found.",Yes.,[],None.,
+35,Q1,What is the patient's main concern?,The patient is distressed about not having enough quality time with her boyfriend.,Not mentioned in the interview.,[],None.,
+35,Q2,Are suicidal thoughts mentioned in the interview?,"No, suicidal thoughts are not mentioned.",Not mentioned in the interview.,[],None.,
+35,Q3,What explicit emotions are mentioned in the interview?,"depressed, resentful",Not mentioned in the interview.,[],None.,
+35,Q4,What behavior or subjective experience does the patient describe?,"The patient reports stressing over everything, feeling resentment toward her boyfriend when they do not have enough quality time, breaking down easily, and feeling depressed.",Not mentioned in the interview.,[],None.,
+35,Q5,"Is there any mention of risk, self-harm, or urgent referral?","No mention of self-harm, urgent referral, or immediate risk is found.",Yes.,[],None.,
+45,Q1,What is the patient's main concern?,The patient is concerned that her husband is depressed and hopeless again after returning home from the hospital.,Not mentioned in the interview.,[],None.,
+45,Q2,Are suicidal thoughts mentioned in the interview?,"No, suicidal thoughts are not mentioned.",Not mentioned in the interview.,[],None.,
+45,Q3,What explicit emotions are mentioned in the interview?,"angry, depressed, hopeless",Not mentioned in the interview.,[],None.,
+45,Q4,What behavior or subjective experience does the patient describe?,"The patient reports that after coming home from the hospital, her husband was angry, then wonderful for a time, and is now depressed and hopeless again.",Not mentioned in the interview.,[],None.,
+45,Q5,"Is there any mention of risk, self-harm, or urgent referral?","No mention of self-harm, urgent referral, or immediate risk is found.",Partially mentioned.,[],None.,
+49,Q1,What is the patient's main concern?,The patient wants to know how to feel content from day to day.,Not mentioned in the interview.,[],None.,
+49,Q2,Are suicidal thoughts mentioned in the interview?,"No, suicidal thoughts are not mentioned.",Not mentioned in the interview.,[],None.,
+49,Q3,What explicit emotions are mentioned in the interview?,No explicit emotions are mentioned.,Not mentioned in the interview.,[],None.,
+49,Q4,What behavior or subjective experience does the patient describe?,The patient asks how to reach a state of day-to-day contentment.,Not mentioned in the interview.,[],None.,
+49,Q5,"Is there any mention of risk, self-harm, or urgent referral?","No mention of self-harm, urgent referral, or immediate risk is found.",,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d9167d-41f449a64502997757e6d41a;305e2c18-8e7f-4a9d-92fb-7fe8aa6f6509)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+87,Q1,What is the patient's main concern?,The patient reports having started cutting again and is struggling to stop.,,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d9167e-56439a237b30da720c97a35e;69fbc083-5315-4f76-93c1-3a3fadc9b4fd)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+87,Q2,Are suicidal thoughts mentioned in the interview?,"No, suicidal thoughts are not mentioned.",,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d9167f-6ade75501dcc749640e7564d;d811304d-75e9-4cf6-822a-5565bdcc762b)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+87,Q3,What explicit emotions are mentioned in the interview?,No explicit emotions are mentioned.,,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d91680-543d26931d8fe3bd2fbe082b;6c0f4647-022e-47bf-a898-68d531474ad3)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+87,Q4,What behavior or subjective experience does the patient describe?,"The patient reports resuming self-cutting, describes it as like an addiction, says the urge increases when trying to stop, and says drawing does not help.",,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d91681-470e324348e229132da5af85;d89a0644-840b-4ad2-9316-fafcc6d11005)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+87,Q5,"Is there any mention of risk, self-harm, or urgent referral?","Self-harm is mentioned, as the patient reports cutting themself again.",,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d91681-54ed8567216ed078199713fc;8fef0b74-17a5-4dc1-a918-0dff18e86f0d)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+104,Q1,What is the patient's main concern?,"The patient is asking for help with depression, self-hatred, and feeling uncared for.",,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d91682-2ec58784737e76c67eb8e6f9;20edbca0-4232-4f68-80a8-fa49915b1ea8)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+104,Q2,Are suicidal thoughts mentioned in the interview?,"No, suicidal thoughts are not mentioned.",,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d91682-3f6fb59c1fb0159026e4b014;42d721a0-4bd1-4cdb-a2a3-01692c6844c4)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+104,Q3,What explicit emotions are mentioned in the interview?,"anxious, afraid, depressed",,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d91683-3b78650f0d1caaa546a2f533;ebf19654-bfeb-4d6f-96af-4f8b84ed1e3c)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+104,Q4,What behavior or subjective experience does the patient describe?,"The patient reports anxiety about starting middle school, becoming quiet and not acting like themself, not talking to anybody, having no friends, becoming depressed after their grandmother died, stopping school for a while, hating themself, and wanting someone to care for them.",,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d91683-3fb3b2ea1bd5d70b349ff18a;5c7ef300-c828-478f-9833-bf6df79363f9)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+104,Q5,"Is there any mention of risk, self-harm, or urgent referral?","No mention of self-harm, urgent referral, or immediate risk is found.",,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d91684-6dd6bccb1378506d555410d5;59ea94ac-6be8-4ef5-8e91-712107f59517)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+127,Q1,What is the patient's main concern?,The patient is worried about seeking evaluation or treatment for possible major depressive disorder.,,[],"The patient says “I’m not really suicidal,” which mentions suicidality without clearly describing current suicidal intent.","402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d91684-4a7268d75ab81c2201c81a38;9efe1567-3a8d-4172-9861-b3911205a06d)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+127,Q2,Are suicidal thoughts mentioned in the interview?,"No, suicidal thoughts are not mentioned.",,[],"The patient says “I’m not really suicidal,” which mentions suicidality without clearly describing current suicidal intent.","402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d91685-5e3b8c7f62da07e6357c5c38;a303a8f4-cec9-4259-8d90-0d4b9a7c3669)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+127,Q3,What explicit emotions are mentioned in the interview?,"afraid, concerned",,[],"The patient says “I’m not really suicidal,” which mentions suicidality without clearly describing current suicidal intent.","402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d91685-563ff7156fa451af2e61c066;9a0308cb-8ce8-4f53-9198-05455becba36)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+127,Q4,What behavior or subjective experience does the patient describe?,"The patient reports fear about diagnosis consequences, fear of antidepressants after a severe reaction, concern about being forced into treatment, not really taking care of themself, and wondering whether to rely on self-help instead.",,[],"The patient says “I’m not really suicidal,” which mentions suicidality without clearly describing current suicidal intent.","402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d91685-3603c0cc57d016600d0c828d;700bbf21-ce2b-4e3a-995a-4329c6551e0e)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+127,Q5,"Is there any mention of risk, self-harm, or urgent referral?","No mention of self-harm, urgent referral, or immediate risk is found.",,[],"The patient says “I’m not really suicidal,” which mentions suicidality without clearly describing current suicidal intent.","402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d91686-63b8c012153ebe712659bdef;936cdad2-6dd3-460d-8cd6-5e9fec0741f2)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+174,Q1,What is the patient's main concern?,The patient reports severe anxiety and panic attacks occurring at least once a week.,,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d91687-015fa94c705794b15ba7d0c5;d00ce6d3-bde7-4805-ab7c-42d7b3834dfc)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+174,Q2,Are suicidal thoughts mentioned in the interview?,"No, suicidal thoughts are not mentioned.",,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d91688-089e7f9c0e4e386272051895;0b45a371-a3b2-404c-8f37-1081371e0bc6)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+174,Q3,What explicit emotions are mentioned in the interview?,anxious,,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d91688-75f0a9e85057d1123e62667e;efedbce5-4990-487e-8f7e-69321f2a25a6)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+174,Q4,What behavior or subjective experience does the patient describe?,The patient reports having a panic attack at least once a week and suffering from severe anxiety.,,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d91689-4de5467c2b2fadbc52b5d226;98b7128e-6109-4d94-bcdf-c679ef08c2e2)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+174,Q5,"Is there any mention of risk, self-harm, or urgent referral?","No mention of self-harm, urgent referral, or immediate risk is found.",,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d9168a-642372324cd9950c0472b629;3c7d5313-b6cd-4f09-bf7c-3656e7288a67)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+200,Q1,What is the patient's main concern?,The patient is distressed by fear and panic symptoms when around children and wants them to stop.,,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d9168a-7757c90d4239e92f461d0a6a;29104f1b-71d8-466b-9b01-d7222cd29812)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+200,Q2,Are suicidal thoughts mentioned in the interview?,"No, suicidal thoughts are not mentioned.",,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d9168b-7e34400e5f9d6fa26f80e402;6a456179-4594-40bc-950c-92281efd544c)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+200,Q3,What explicit emotions are mentioned in the interview?,scared,,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d9168b-299d7a3d4e48c29607140058;6f59a734-6503-418a-bcd2-0d53bc0087c2)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+200,Q4,What behavior or subjective experience does the patient describe?,"The patient reports heavy breathing, sweating, acting strangely while trying to fight the feeling, having panic attacks, and feeling scared around children.",,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d9168c-13fb34c42c316def13efeb0e;45e5efd2-0255-4d17-ad45-c214a4a9fb5f)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+200,Q5,"Is there any mention of risk, self-harm, or urgent referral?","No mention of self-harm, urgent referral, or immediate risk is found.",,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d9168d-4fa6dad00ec35d7124d8ea6c;31834aa7-5132-4f64-a551-96cdc8ac5edd)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+202,Q1,What is the patient's main concern?,The patient is struggling with anxiety while dealing with stress about going back and forth between homes.,,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d9168d-470b7cea395501c5240650a2;f511ed7a-01ef-4df0-9382-38b409481256)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+202,Q2,Are suicidal thoughts mentioned in the interview?,"Yes, suicidal thoughts are mentioned.",,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d9168e-42c3b1db6ee94cfc3f919e57;7c5bd5cc-0f63-4367-a7dd-1badbc12c36e)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+202,Q3,What explicit emotions are mentioned in the interview?,anxious,,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d9168f-58a43d9f3c2a21901d553187;99e02d3e-d51f-4281-b5ae-20900e5d4310)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+202,Q4,What behavior or subjective experience does the patient describe?,"The patient reports being sick and tired of going back and forth, wanting to stay at their mother’s house, having had anxiety attacks, suicidal thoughts, and self-harm in the past, and currently going through anxiety while their therapist is unavailable.",,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d9168f-1686b6ee605818123a504ebd;5c7837d5-5292-48e3-97b1-cb0d442a0446)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+202,Q5,"Is there any mention of risk, self-harm, or urgent referral?","Past self-harm and suicidal thoughts are explicitly mentioned, and hotline use is recommended if suicidal ideation worsens.",,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d91690-34c274f06e5d41c858da51d4;c3b38efc-9872-4fa9-858d-d6ab159530ea)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+221,Q1,What is the patient's main concern?,The patient is worried that her boyfriend may want to hurt her sexually.,,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d91691-252fe2ab79e7552e2155c727;723ce7de-d4e8-4699-a577-7af437fedfba)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+221,Q2,Are suicidal thoughts mentioned in the interview?,"No, suicidal thoughts are not mentioned.",,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d91691-3b7f823d1d32d6bf1ed39109;6904e7c5-8d56-4674-aedc-958d4f047cca)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+221,Q3,What explicit emotions are mentioned in the interview?,anxious,,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d91692-630bbe70649c7094093025ff;4a6e0dd8-31a8-4d0b-89b4-4de55fe599d5)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+221,Q4,What behavior or subjective experience does the patient describe?,"The patient reports anxiety and a recurring feeling that her boyfriend wants to hurt her because he said he was interested in BDSM intercourse, although they have not tried it.",,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d91693-261eae3026f972ea3fb38054;c040edd8-3683-43fc-b52a-8f92e2319f8d)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+221,Q5,"Is there any mention of risk, self-harm, or urgent referral?","Clear interpersonal safety risk is mentioned, as the patient says she feels her boyfriend wants to hurt her.",,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d91693-39fa1b732b89bdcf4d228a87;c6ca7c37-72e8-4f5e-b015-d1f8eef3b97d)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+230,Q1,What is the patient's main concern?,"The patient is concerned about feeling watched, fear of break-ins, and difficulty tolerating noise.",,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d91694-097482a471016f393fb7aebd;ae784cef-0efe-4964-bd26-c657fa1d606b)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+230,Q2,Are suicidal thoughts mentioned in the interview?,"No, suicidal thoughts are not mentioned.",,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d91694-5b4f82a82b9391f93f16fdff;f9fe9050-92ff-4cb1-935a-0e915f8a147e)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+230,Q3,What explicit emotions are mentioned in the interview?,No explicit emotions are mentioned.,,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d91695-5aeec58731d03c553c1efb23;c9b9664a-4183-4697-a061-ab48c2a8efd8)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+230,Q4,What behavior or subjective experience does the patient describe?,"The patient reports putting chairs under door knobs because of fear someone might break in, being unable to stand loud noises, finding the grocery store too noisy, and feeling like people are looking at them.",,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d91695-7c6ae2bb1c78a15c7180827d;c88b05c2-ff11-46eb-a676-6f6166ac8a2f)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+230,Q5,"Is there any mention of risk, self-harm, or urgent referral?","No mention of self-harm, urgent referral, or immediate risk is found.",,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d91696-1c397e6f10aef9fe03a984b4;298b7b99-caa3-4340-8d6d-ac6713175ef5)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+250,Q1,What is the patient's main concern?,The patient is struggling with how to move on while deciding how much contact to have with their child after separation.,,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d91697-71ded08a6c7eaeb427d1ba9f;e6f4829a-19bf-46d7-b970-9344199a6db6)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+250,Q2,Are suicidal thoughts mentioned in the interview?,"No, suicidal thoughts are not mentioned.",,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d91697-5ee317f64936ac1b445730e1;ce48cb4c-663a-4919-9a4a-b8febc484c15)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+250,Q3,What explicit emotions are mentioned in the interview?,No explicit emotions are mentioned.,,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d91698-309148c17be4ed094aebc909;e3da84b5-c491-4417-a6f3-5e3341c8cdb0)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+250,Q4,What behavior or subjective experience does the patient describe?,"The patient reports that their ex-wife uses their child as a pawn, believes the child misses them, wants to move on and not live in the past, and is unsure whether to see the child as much as possible or very little.",,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d91698-354b4cff5477fe8453dc5661;426d427c-4af0-4b72-a2ab-9917163d99c0)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+250,Q5,"Is there any mention of risk, self-harm, or urgent referral?","No mention of self-harm, urgent referral, or immediate risk is found.",,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d91699-390b820b1cf8e28e55678b1f;695d7833-5491-4577-b47c-9887285c0630)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+259,Q1,What is the patient's main concern?,The patient is struggling with their mother trying to control their life while they still live at home for financial reasons.,,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d9169a-693882235947df563047d757;3c85e56a-d6c4-403e-98b4-7b137cffe1c2)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+259,Q2,Are suicidal thoughts mentioned in the interview?,"No, suicidal thoughts are not mentioned.",,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d9169a-78d0ccfa3c9df86f7cfa1fbf;2e679d9f-913d-4713-a8ec-4d0231660ccc)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+259,Q3,What explicit emotions are mentioned in the interview?,No explicit emotions are mentioned.,,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d9169b-63e45d6d0c2fd4821592a861;86e133f0-527c-417c-b90e-2f1b5606b645)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+259,Q4,What behavior or subjective experience does the patient describe?,"The patient reports being in their early 20s, living with their parents because they cannot afford to live alone, and feeling that their mother is trying to control their life by requiring them to follow her rules.",,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d9169b-4c79ec6f377fc10625aa0ef4;ceb9a07a-5a54-437c-8449-4651ddcf29f4)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+259,Q5,"Is there any mention of risk, self-harm, or urgent referral?","No mention of self-harm, urgent referral, or immediate risk is found.",,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d9169c-6a8df6914c5a266218712f2b;97c71972-2716-4bbb-a935-83e3825d2f9e)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+281,Q1,What is the patient's main concern?,The patient is struggling with conflict and estrangement with her daughter and is unsure what to do.,,[],"The interviewer mentions possible abuse, but the patient does not explicitly describe abuse details.","402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d9169d-2b8637752e9148be31e8491c;4d47eefb-51ca-4a7d-82e4-38e8367b4834)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+281,Q2,Are suicidal thoughts mentioned in the interview?,"No, suicidal thoughts are not mentioned.",,[],"The interviewer mentions possible abuse, but the patient does not explicitly describe abuse details.","402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d9169d-6167cd2040ca77667a0b74c0;b27cebd2-164e-45cf-818f-c0b71f4efcf6)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+281,Q3,What explicit emotions are mentioned in the interview?,No explicit emotions are mentioned.,,[],"The interviewer mentions possible abuse, but the patient does not explicitly describe abuse details.","402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d9169e-1c327838796a5683676ab5c8;a4f9466b-b67b-4068-ac14-2451a7d3ea6e)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+281,Q4,What behavior or subjective experience does the patient describe?,"The patient reports that her daughter refuses to talk to her, says she is remembering things from the past, blames her, says she hates her, and may live with her father instead.",,[],"The interviewer mentions possible abuse, but the patient does not explicitly describe abuse details.","402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d9169e-2924c6f453b63fa52fe91773;9a7b31e1-e914-4390-9697-03ed10d6be19)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+281,Q5,"Is there any mention of risk, self-harm, or urgent referral?","No mention of self-harm, urgent referral, or immediate risk is found.",,[],"The interviewer mentions possible abuse, but the patient does not explicitly describe abuse details.","402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916a0-03f23152372943a70dae867a;5babcd2b-2d38-48cf-990c-2bf4340b7459)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+291,Q1,What is the patient's main concern?,The patient is struggling with the loss of contact with a child they had cared for and wants to know how to handle the situation.,,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916a0-66d4625d421bdf203aaec608;35c521b7-61f9-4764-a7cc-6e955351cb05)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+291,Q2,Are suicidal thoughts mentioned in the interview?,"No, suicidal thoughts are not mentioned.",,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916a1-15cd70c56718d82f34f18cc6;65b31023-7ea0-49f8-9cda-ca5d79d3ef1c)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+291,Q3,What explicit emotions are mentioned in the interview?,No explicit emotions are mentioned.,,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916a1-69d89ca75d8b5be415bc7b8c;14a66517-1ba1-4c22-a40d-c1b744ccef3f)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+291,Q4,What behavior or subjective experience does the patient describe?,"The patient reports that after their brother broke up with his girlfriend, her son, who had spent weekends with the patient and the patient’s mother for two years, is no longer allowed to interact with them.",,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916a2-40bbba79114721922fe28fda;1436ab3d-91f7-47b9-9a48-d5230e0b0e42)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+291,Q5,"Is there any mention of risk, self-harm, or urgent referral?","No mention of self-harm, urgent referral, or immediate risk is found.",,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916a3-6d01132973e5d2ed33d06b9a;84c367a0-9751-465b-93ee-69e41c7ecc95)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+347,Q1,What is the patient's main concern?,The patient is struggling with self-loathing and difficulty with sexual engagement after being raped by multiple men.,,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916a3-22d0658a1ede816f0b738825;ec831786-b497-4bc0-acb7-e95ac2d014e3)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+347,Q2,Are suicidal thoughts mentioned in the interview?,"No, suicidal thoughts are not mentioned.",,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916a4-1594ad9c44824dc83d4022ec;1a70ba0e-0ec2-4351-b902-9ec22ae17f71)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+347,Q3,What explicit emotions are mentioned in the interview?,self-loathing,,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916a5-21fc8038492d46170d1c5c28;9820cdd8-d5b4-447c-bb62-dd4e03dfd025)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+347,Q4,What behavior or subjective experience does the patient describe?,"The patient reports having been raped by multiple men, being unable to stand the sight of themself, and wearing lingerie to become aroused enough to have sex with their wife.",,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916a5-1d0681127e5ca8a56677806b;e5d268ea-c37f-4eed-b001-4af6c86d74a9)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+347,Q5,"Is there any mention of risk, self-harm, or urgent referral?","No mention of self-harm, urgent referral, or immediate risk is found.",,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916a6-4ee67bd018be5041014cedca;fa6396a6-9ced-4b50-935c-f5555b0403ce)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+349,Q1,What is the patient's main concern?,The patient is seeking help coping with a very difficult divorce.,,[],"The interviewer mentions crying, hating yourself, sadness, loss, and uncertainty, but these are not explicitly stated by the patient.","402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916a7-31ea8a9d681ad68a7fa975f0;f273bfcb-f724-4cda-b1d3-d5d721ce17e0)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+349,Q2,Are suicidal thoughts mentioned in the interview?,"No, suicidal thoughts are not mentioned.",,[],"The interviewer mentions crying, hating yourself, sadness, loss, and uncertainty, but these are not explicitly stated by the patient.","402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916a8-0fe038544c1225e804bf32bb;4e728b51-9928-46cf-b385-80a3a5a055ed)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+349,Q3,What explicit emotions are mentioned in the interview?,No explicit emotions are mentioned.,,[],"The interviewer mentions crying, hating yourself, sadness, loss, and uncertainty, but these are not explicitly stated by the patient.","402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916a8-242657cc14ae819b71a82912;f6bebaee-c769-4481-954c-88cbd037de86)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+349,Q4,What behavior or subjective experience does the patient describe?,"The patient reports going through a very bad divorce, feeling that their wife is making things impossible, and asking for help.",,[],"The interviewer mentions crying, hating yourself, sadness, loss, and uncertainty, but these are not explicitly stated by the patient.","402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916a9-6e220cb9439518aa1ee0a27c;ea398e06-3869-4775-8376-6f4f93a8d6d1)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+349,Q5,"Is there any mention of risk, self-harm, or urgent referral?","No mention of self-harm, urgent referral, or immediate risk is found.",,[],"The interviewer mentions crying, hating yourself, sadness, loss, and uncertainty, but these are not explicitly stated by the patient.","402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916aa-631552b637c255155589e581;f3854631-2bf0-4afd-8566-e0faee7c63d7)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+361,Q1,What is the patient's main concern?,The patient is distressed about separation from her husband and wants to know if there is hope of getting back together.,,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916aa-4e4d8479002f8edc05f1d725;6f93b34e-f515-4c1a-b439-b89fdb0e1efe)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+361,Q2,Are suicidal thoughts mentioned in the interview?,"No, suicidal thoughts are not mentioned.",,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916ab-421db46c5b2c2a3a5ddd262b;aff21342-7f82-40e4-8799-66bc2159bbea)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+361,Q3,What explicit emotions are mentioned in the interview?,No explicit emotions are mentioned.,,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916ab-0daaf5f54d4163483d607482;6faa0cf7-78c0-4162-a1b8-3eea33f8f584)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+361,Q4,What behavior or subjective experience does the patient describe?,"The patient reports that she and her husband are separated, he does not want to talk to her, he says he does not love her anymore, and she would do anything to get him back.",,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916ac-679395e128753c646da72683;1abbca3c-3689-4960-bf91-ade2d0847381)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+361,Q5,"Is there any mention of risk, self-harm, or urgent referral?","No mention of self-harm, urgent referral, or immediate risk is found.",,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916ad-3161846570c255dc36f12070;40a22a3f-26c7-482d-9c21-c245cef65ca5)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+405,Q1,What is the patient's main concern?,The patient says they have never really known who they are.,,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916ad-0721e5527fd2c6f61b83c618;10037214-e2c6-4a13-947f-6e97c91d7938)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+405,Q2,Are suicidal thoughts mentioned in the interview?,"No, suicidal thoughts are not mentioned.",,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916ae-79643e5a4546fbbf4554d246;6f84b655-e366-4d69-bd42-191626ce109c)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+405,Q3,What explicit emotions are mentioned in the interview?,No explicit emotions are mentioned.,,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916af-702d42f707ad09d426f61e2b;97846e76-72ae-47b3-ac32-0f08b0943c4a)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+405,Q4,What behavior or subjective experience does the patient describe?,The patient reports not knowing what to say and never really having known who they are.,,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916b0-1c6bb3b606d2ac56297cabe0;fd7227d3-75a1-4dd8-998b-2bde3d968baa)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+405,Q5,"Is there any mention of risk, self-harm, or urgent referral?","No mention of self-harm, urgent referral, or immediate risk is found.",,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916b1-3d51a26e54878246552e39ab;fde5d42c-e79e-4b76-bc91-aefc863e308a)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+412,Q1,What is the patient's main concern?,The patient is struggling to cope with the death of a childhood friend.,,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916b3-7804c0cc55b0d00d6342f58c;4a88f0df-ef80-4fe6-9103-13c20a40ccef)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+412,Q2,Are suicidal thoughts mentioned in the interview?,"No, suicidal thoughts are not mentioned.",,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916b3-0e04d2cb6de3826f7002031a;5907b0b2-4cd6-4eff-9702-5c9fb539a293)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+412,Q3,What explicit emotions are mentioned in the interview?,No explicit emotions are mentioned.,,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916b4-094a3296131d3fc659dc402a;425aa50e-07d6-4e51-9935-a2db0632305d)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+412,Q4,What behavior or subjective experience does the patient describe?,"The patient reports that a good childhood friend died suddenly, that the loss affects them deeply, and that after about three months they still do not know how to cope.",,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916b5-179c2da178aec37f28741c28;2021c0e2-bef6-47f3-905f-f21ceb2fd32a)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+412,Q5,"Is there any mention of risk, self-harm, or urgent referral?","No mention of self-harm, urgent referral, or immediate risk is found.",,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916b6-3d7f286b13583ca20b460802;ab367b32-5cb9-4dd1-a0f8-d011aa20ab75)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+438,Q1,What is the patient's main concern?,The patient is seeking help for an emotionally abusive relationship that keeps getting worse.,,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916b6-69b15209675cfa0666ef2e2b;f3917f81-b5bf-4209-8518-30e021aa29cd)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+438,Q2,Are suicidal thoughts mentioned in the interview?,"No, suicidal thoughts are not mentioned.",,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916b7-70dcd5f1317f178a1853ec62;554615dd-9fb8-4edb-a13c-8b77c0d26185)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+438,Q3,What explicit emotions are mentioned in the interview?,frustrated,,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916b7-77d9d3813b451aee1f8fc79d;221414e8-1244-4365-8b1a-38309ee873ad)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+438,Q4,What behavior or subjective experience does the patient describe?,"The patient reports being in an emotionally abusive relationship, repeated worsening fights, being unable to speak because he is louder, being kicked out of the house when trying to talk, and feeling like she is the only one fighting for the relationship.",,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916b8-5f96e7235bb80a2b3c52d589;86aa7e74-5469-49ab-8684-25fdc19fe199)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+438,Q5,"Is there any mention of risk, self-harm, or urgent referral?","Clear interpersonal safety risk is mentioned, as the patient describes an emotionally abusive relationship and being kicked out of the house.",,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916b9-3ad01fd071b8090161e7fdaf;54b54cd3-8a26-4657-bcb2-c7a0936a8a7f)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+440,Q1,What is the patient's main concern?,The patient is struggling with her partner’s verbal abuse and feeling scared.,,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916b9-44615f236d6a8394584b07a2;6b757ef5-85a4-430e-aab3-4a212fe33783)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+440,Q2,Are suicidal thoughts mentioned in the interview?,"No, suicidal thoughts are not mentioned.",,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916ba-2040dca64929a3b7596bff21;434c9ae5-30f7-4ed7-be47-c1e4fddd693f)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+440,Q3,What explicit emotions are mentioned in the interview?,scared,,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916ba-600522e8740380f121b03c37;8a281d1c-53d0-4530-bdf7-c99651c335d7)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+440,Q4,What behavior or subjective experience does the patient describe?,"The patient reports that he is verbally abusive, yells at her when he gets mad, and that she feels scared at times.",,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916bb-5c61b14e12dd25ec0c7ec421;03895409-e7f4-4b8c-9c06-00e0021ca9e3)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+440,Q5,"Is there any mention of risk, self-harm, or urgent referral?","Clear interpersonal safety risk is mentioned, as the patient reports verbal abuse and feeling scared.",,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916bb-53b5c3b6534a7749209f0e71;59d59c7f-d6b5-44ba-b120-df7878d6aa59)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+459,Q1,What is the patient's main concern?,The patient is struggling with how to deal with her boyfriend’s violent outbursts.,,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916bc-6279fabe293cc37652603194;c21c49d8-7c3c-4208-b129-36f4b5ee3457)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+459,Q2,Are suicidal thoughts mentioned in the interview?,"No, suicidal thoughts are not mentioned.",,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916bc-0b8a2e3e45700a684670f075;888e1c75-577a-4778-ac54-477220bb5eee)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+459,Q3,What explicit emotions are mentioned in the interview?,No explicit emotions are mentioned.,,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916bc-4ba2c0ce4da84be86320eb33;ce890e5c-b156-4744-8020-62f591ff7f87)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+459,Q4,What behavior or subjective experience does the patient describe?,"The patient reports being in an eight-year relationship, says her boyfriend drinks a lot, experienced childhood trauma, and has violent outbursts.",,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916bd-450b3be0476d8e47004ad83b;10aa83db-c977-4d77-892b-42dd7acf4d09)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+459,Q5,"Is there any mention of risk, self-harm, or urgent referral?","Clear interpersonal safety risk is mentioned, as the patient reports violent outbursts.",,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916bd-7dd6cff116b45ed45c43d052;31dddf6d-bf4a-4bc5-a516-8e2786f098b6)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+487,Q1,What is the patient's main concern?,The patient is distressed by her husband’s repeated drinking and dishonesty about it.,,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916be-5410d5960f60d2f84c3e6144;24c89070-e6a4-4604-9757-a5a3c245e52e)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+487,Q2,Are suicidal thoughts mentioned in the interview?,"No, suicidal thoughts are not mentioned.",,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916be-08b9399f1ae1d61e0201e716;3c1c5276-5de8-41b7-a54a-cae6d2e51b71)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+487,Q3,What explicit emotions are mentioned in the interview?,No explicit emotions are mentioned.,,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916bf-503d39e90e5f7df06806a0fb;8a87dac1-52ef-4fa1-ae87-705423af86e6)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+487,Q4,What behavior or subjective experience does the patient describe?,"The patient reports that her husband has resumed drinking, that she checks the alcohol in the house, confronts him about missing alcohol, and feels uncertain whether she is overreacting.",,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916bf-6936141a01a010890acfbbb2;4b2f72c2-0848-4a87-8c7f-bb2aae2d0629)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+487,Q5,"Is there any mention of risk, self-harm, or urgent referral?","No mention of self-harm, urgent referral, or immediate risk is found.",,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916c0-7f26ec834b1e8b735c5de64c;c2a9bb8d-21c0-4247-a327-9e647112cd99)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+493,Q1,What is the patient's main concern?,The patient is unsure how to disclose crossdressing to women he dates and whether to continue doing it.,,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916c0-4de6c3ce5c3986616233f5a9;13f7ed4a-a71c-4610-b224-2587ce5c567b)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+493,Q2,Are suicidal thoughts mentioned in the interview?,"No, suicidal thoughts are not mentioned.",,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916c1-58a21f8d1d5d2b623e87a5a6;d10c143b-2dc8-4891-891c-684d9d59a502)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+493,Q3,What explicit emotions are mentioned in the interview?,happy,,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916c1-3440820329eddfdf434f2f44;4368b7f7-7d44-472b-bb29-3d373f1fc341)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+493,Q4,What behavior or subjective experience does the patient describe?,"The patient reports crossdressing, liking to be feminine, being attracted to women, finding that this seems to bother girls he dates or asks out, and wondering whether to keep it secret, be upfront, stop, or continue because it makes him happy.",,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916c2-4f21694f1d6a968f05558a8d;75ed98c0-335b-4fb6-88c8-5a04ba27d531)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+493,Q5,"Is there any mention of risk, self-harm, or urgent referral?","No mention of self-harm, urgent referral, or immediate risk is found.",,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916c2-11e417c429a91bca62dc8d49;3ff05287-2d51-4835-be6e-03e9dcd6497b)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+500,Q1,What is the patient's main concern?,The patient is struggling with mistrust and repeated checking behaviors toward his partner despite having no evidence of cheating.,,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916c3-192847215c79ce0f44409ea8;fd70d238-bb7a-4dda-ae51-cfd08ee26ef8)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+500,Q2,Are suicidal thoughts mentioned in the interview?,"No, suicidal thoughts are not mentioned.",,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916c3-2e8c0458678f1e50134f526c;2ebe7d68-22d0-439b-8034-f549d1fa0860)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+500,Q3,What explicit emotions are mentioned in the interview?,No explicit emotions are mentioned.,,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916c3-2b88cd614d0b6ece550c55bf;fc980d66-54e5-4477-8840-8803032934fd)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+500,Q4,What behavior or subjective experience does the patient describe?,"The patient reports repeatedly questioning his partner about texting, phone calls, and social media use, checking her phone records, and going through her phone, despite never finding any reason to think she is cheating.",,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916c4-2ac70f64495d362478cefbb7;c95229c7-1072-4366-8c64-99b74244218f)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+500,Q5,"Is there any mention of risk, self-harm, or urgent referral?","No mention of self-harm, urgent referral, or immediate risk is found.",,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916c4-6876d7c44edf50902f890180;67be2443-5b03-43bf-a6ac-61a0878a09f5)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+501,Q1,What is the patient's main concern?,The patient is struggling with not knowing whom to trust and distrusts even family and friends.,,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916c5-3febb19a722a3e2c6cdf01d2;5e4d78e5-3107-47c3-81c7-f52ab09ba597)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+501,Q2,Are suicidal thoughts mentioned in the interview?,"No, suicidal thoughts are not mentioned.",,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916c5-1df7112171dce2c26d0d9fa7;a3d88c24-5908-4f7a-adfb-ee86b0c58e4e)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+501,Q3,What explicit emotions are mentioned in the interview?,No explicit emotions are mentioned.,,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916c6-18a90d8227197baa276bd2e4;cfb78ce6-ce91-4206-b712-5020370eba3c)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+501,Q4,What behavior or subjective experience does the patient describe?,"The patient reports that many people lie, has difficulty telling who speaks the truth, and does not trust family or friends.",,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916c6-1481688162d4bb8976ed7453;164e87c8-aafa-40c5-840b-b867bee707d8)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+501,Q5,"Is there any mention of risk, self-harm, or urgent referral?","No mention of self-harm, urgent referral, or immediate risk is found.",,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916c7-0938e7f120eae05a5539a2c0;eec8b107-6536-4c04-a8c5-463bf1661f9e)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+524,Q1,What is the patient's main concern?,The patient is distressed that her boyfriend ended the relationship after his father’s suicide and wants to understand why.,,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916c7-54030b9e738d0b845f3c4cda;b1baf7ed-9666-4fec-a39f-fe794ffda7d0)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+524,Q2,Are suicidal thoughts mentioned in the interview?,"No, suicidal thoughts are not mentioned.",,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916c7-004b4cb43bbfefbf1ff4e21c;a067ef69-f768-4353-a473-320ebc429460)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+524,Q3,What explicit emotions are mentioned in the interview?,No explicit emotions are mentioned.,,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916c8-1a46186c4e863c5937734f96;9cccb0de-03c5-4b0c-b47f-c3650af2833b)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+524,Q4,What behavior or subjective experience does the patient describe?,"The patient reports that her boyfriend’s father died by suicide, that he says he cannot be there for her or love her anymore, and that he wants nothing to do with her.",,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916c8-535fe4a01f70712e4866cdd6;5f821ff5-92a1-4147-8bf4-8507b78241ab)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+524,Q5,"Is there any mention of risk, self-harm, or urgent referral?","No mention of self-harm, urgent referral, or immediate risk is found.",,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916c9-0eb2c5d5405e0ef9749d9de9;f5192c3b-2f98-41d0-90b8-7ac783629c1b)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+550,Q1,What is the patient's main concern?,The patient is struggling with jealousy that is negatively affecting her relationship.,,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916c9-1b002bf10dd06ce367ea9f60;5dabf2cf-d849-4c5f-9084-46c4013feefc)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+550,Q2,Are suicidal thoughts mentioned in the interview?,"No, suicidal thoughts are not mentioned.",,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916ca-7daa48c938c2b70c381d1585;d90fbb34-634f-4a08-aac0-648597477252)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+550,Q3,What explicit emotions are mentioned in the interview?,jealous,,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916ca-7c6cbb6069c14f69272802c3;315bca3b-b955-472c-9674-f5d3d02e0216)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+550,Q4,What behavior or subjective experience does the patient describe?,"The patient reports being a very jealous person, avoiding going out or doing things with other people because of this, and feeling unable to stop being jealous despite knowing it affects the relationship.",,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916ca-2041d2d631b644357464612c;9fb1fc6b-ea0f-47a7-a662-ab1436a43e76)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+550,Q5,"Is there any mention of risk, self-harm, or urgent referral?","No mention of self-harm, urgent referral, or immediate risk is found.",,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916cb-4673840a1cc887466cd5ec6a;5708fef7-ca55-4914-b53b-3b263ecabb47)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+554,Q1,What is the patient's main concern?,The patient is struggling with loneliness and reduced intimacy in his marriage.,,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916cb-60c3c2892c434f641ba0f250;b5ac9e40-3dad-4528-9472-4dcba10a7ed9)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+554,Q2,Are suicidal thoughts mentioned in the interview?,"No, suicidal thoughts are not mentioned.",,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916cc-3ceb3ab92ecec2942f925a9e;30cb00b4-e41f-45f0-b65f-bce3bed08830)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+554,Q3,What explicit emotions are mentioned in the interview?,lonely,,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916cc-3659e3cc2e423edf54b64994;4f38b387-c4a6-4058-97a8-6d92e828a567)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+554,Q4,What behavior or subjective experience does the patient describe?,"The patient reports that his wife works late most days, they no longer have sex, he feels a loss of intimacy, and he has become close friends with a coworker.",,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916cd-30f0933473722a1824a6d813;1a7a919d-3dc0-4d32-abb0-df5fb3e641e8)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+554,Q5,"Is there any mention of risk, self-harm, or urgent referral?","No mention of self-harm, urgent referral, or immediate risk is found.",,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916cd-087f4bf7368d6ba61d46862a;6678b92d-357f-459e-a486-24d9fcd036d2)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+560,Q1,What is the patient's main concern?,The patient reports cheating during arguments in a relationship with limited sexual intimacy.,,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916ce-6e852bfe4bf5a3314a8edcc3;ec401718-e3ba-4631-9bcb-56453776ba17)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+560,Q2,Are suicidal thoughts mentioned in the interview?,"No, suicidal thoughts are not mentioned.",,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916ce-65cd6ce37b3056c94c8e6713;16d6d629-bfc9-4989-8090-137cda0d0db4)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+560,Q3,What explicit emotions are mentioned in the interview?,No explicit emotions are mentioned.,,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916ce-41260c456a9b99de6b7918db;7d7f955b-c1a3-4dbc-9110-75cbe005e886)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+560,Q4,What behavior or subjective experience does the patient describe?,"The patient reports that they do not have sex often, cheat when they argue, do not kiss or have unprotected sex with those partners, and describe the cheating as a one-time event with no repeat contact.",,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916cf-545534fb222846137e0350f9;3bd6a58b-d8d3-41c5-8b09-b1cbf8715296)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+560,Q5,"Is there any mention of risk, self-harm, or urgent referral?","No mention of self-harm, urgent referral, or immediate risk is found.",,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916cf-46d367021377f2bc294bcb87;f8aee135-1130-4435-b986-cb5082dc251d)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+564,Q1,What is the patient's main concern?,The patient is struggling with a long-term lack of sexual intimacy in the relationship and is considering leaving without hurting the children.,,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916d0-0b66f5204f2551507e0d2df0;08f58792-524f-4b72-843a-8e03ff3c9194)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+564,Q2,Are suicidal thoughts mentioned in the interview?,"No, suicidal thoughts are not mentioned.",,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916d0-6b93828b74efcfa56e17d28a;39f171d3-ef84-4e21-9d69-4fe39d0bc5b2)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+564,Q3,What explicit emotions are mentioned in the interview?,lonely,,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916d0-5be73cc5519eacbe020a33c1;73bddcb0-087f-46e7-87d6-86e9d6f17de8)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+564,Q4,What behavior or subjective experience does the patient describe?,"The patient reports that since their first child was born 15 years ago, sex has been almost nonexistent, occurring only every three or four months, that they have already tried counseling, and that they are considering moving on.",,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916d1-457f989010c77ffa1bb45c22;99b89562-c09d-4406-a04f-76a421821f91)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+564,Q5,"Is there any mention of risk, self-harm, or urgent referral?","No mention of self-harm, urgent referral, or immediate risk is found.",,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916d2-18893fb259e6b8c933e4c4bd;b4d46187-f32d-45f1-8287-568671b84ec5)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+671,Q1,What is the patient's main concern?,The patient is concerned about repeatedly being mean to their best friend and wants to understand why.,,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916d2-59fa1a5f237e73fe78ed550f;fa530d73-56c2-4586-96a7-7fbabc5e89e5)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+671,Q2,Are suicidal thoughts mentioned in the interview?,"No, suicidal thoughts are not mentioned.",,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916d2-2eb63a4a03db2c71489e2c10;c60dca5d-303f-4592-a57d-8ee747048626)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+671,Q3,What explicit emotions are mentioned in the interview?,No explicit emotions are mentioned.,,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916d3-12ab53345e1dd18400bfdcde;723e13af-fc2e-4c8c-885d-c4fede972125)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+671,Q4,What behavior or subjective experience does the patient describe?,The patient reports repeatedly being mean to their best friend and thinks it may be related to their mother being mean to them.,,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916d3-37e0aa345e1232b404cbe82d;76e331e7-e2ac-4fd2-819e-0ac4d9316037)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+671,Q5,"Is there any mention of risk, self-harm, or urgent referral?","No mention of self-harm, urgent referral, or immediate risk is found.",,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916d4-6d18cea678eab0fd3504e8cb;ee59138a-85b8-48d1-a6bf-a8f6bfbb2e16)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+692,Q1,What is the patient's main concern?,The patient is tired of her husband repeatedly not trusting her and accusing her of messing around.,,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916d4-1edfc1bf7285e6c6135daef2;d85cc0bd-1d41-4059-9d99-bc3650d2148a)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+692,Q2,Are suicidal thoughts mentioned in the interview?,"No, suicidal thoughts are not mentioned.",,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916d5-24db9d562ef72b59538eb1fe;c5b213b4-dd19-4ea2-ba21-5e681e3c8522)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+692,Q3,What explicit emotions are mentioned in the interview?,No explicit emotions are mentioned.,,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916d5-6583937c4a6111957881c4df;b5a14525-6297-4d07-a98b-c234575bc17e)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+692,Q4,What behavior or subjective experience does the patient describe?,"The patient reports that her husband does not trust her because of their past and repeatedly accuses her of messing around, which she denies.",,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916d6-7b230b362b611c774423abaf;20090cb0-c2d5-4154-97db-ec73a0f732fb)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+692,Q5,"Is there any mention of risk, self-harm, or urgent referral?","No mention of self-harm, urgent referral, or immediate risk is found.",,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916d6-082d7e1300c2ed9304a2a813;b2821cec-8c7b-4f6e-8e96-80c364b5d815)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+710,Q1,What is the patient's main concern?,The patient is preoccupied with food and weight to the point that it interferes with daily activities.,,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916d6-29a0565f2296e9b2336e53ae;65258447-20dd-4386-882e-6fcada73a555)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+710,Q2,Are suicidal thoughts mentioned in the interview?,"No, suicidal thoughts are not mentioned.",,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916d7-479c0c58149c437026a4f37e;14c9fcbd-32ce-4558-8c23-79268431cbdd)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+710,Q3,What explicit emotions are mentioned in the interview?,No explicit emotions are mentioned.,,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916d7-517dcf62119ea8b373c6c14b;43ad086d-2f55-44d0-baf8-6cb07d92d007)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+710,Q4,What behavior or subjective experience does the patient describe?,"The patient reports being obsessed with food and weight, feeling that it consumes daily activities, weighing themself 2–3 times a day, and reducing food intake.",,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916d8-33030dd47ef91be82d5c79b1;9ee482a0-ddde-4504-b005-4e8b5bff3e7d)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+710,Q5,"Is there any mention of risk, self-harm, or urgent referral?","No mention of self-harm, urgent referral, or immediate risk is found.",,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916d8-583ba1222f43eec57b343156;320b705f-999a-481a-a7c6-051ba02e7dcb)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+752,Q1,What is the patient's main concern?,The patient is worried about growing distance in his relationship and fears losing his girlfriend.,,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916d9-0c759f730ec986037b0f32b0;61ea8c3a-5469-4b4f-83c3-bdaf1a8231be)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+752,Q2,Are suicidal thoughts mentioned in the interview?,"No, suicidal thoughts are not mentioned.",,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916d9-5573171a2d1ac18019bbc3f9;769ab07e-180c-4bdf-851a-f7bce43b8d6c)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+752,Q3,What explicit emotions are mentioned in the interview?,No explicit emotions are mentioned.,,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916d9-7f3182771828793366d11657;b8a53d5d-8707-4c88-aef2-76cfa59616b7)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+752,Q4,What behavior or subjective experience does the patient describe?,The patient reports that his girlfriend has recently been spending more time texting and hanging out with a friend and is ignoring him more.,,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916da-60b6ae5331db4fee630e9d55;e66d99dd-6c25-4314-9878-bf7f37728217)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+752,Q5,"Is there any mention of risk, self-harm, or urgent referral?","No mention of self-harm, urgent referral, or immediate risk is found.",,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916da-4d1bfbf06eb58c056323b803;de3d8a2c-a67a-41e8-aee9-e08c8d7eba22)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+777,Q1,What is the patient's main concern?,The patient wants guidance about having a baby with her boyfriend despite their current instability.,,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916db-4a97639f7bc9306e3877126d;4457f26d-087a-483e-b034-40ce39480fa4)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+777,Q2,Are suicidal thoughts mentioned in the interview?,"No, suicidal thoughts are not mentioned.",,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916db-7f79e99d7824c76267b27bb2;ccb99d7f-a39c-49f7-b795-13dd25ed4991)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+777,Q3,What explicit emotions are mentioned in the interview?,No explicit emotions are mentioned.,,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916db-45d04fcc1b4bac8506a85b77;8b085ff4-d221-4662-b8b1-f31f28842ab6)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+777,Q4,What behavior or subjective experience does the patient describe?,"The patient reports dating her boyfriend for one month, wanting a baby, not working or driving, and not having talked to their parents about it.",,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916dc-374c6cef287bf1032668b95f;6a38bcc1-9e3f-409c-a7be-45292df87a17)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+777,Q5,"Is there any mention of risk, self-harm, or urgent referral?","No mention of self-harm, urgent referral, or immediate risk is found.",,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916dc-2e16ba251fc98ca424d8c1c7;f6b63b0e-6505-42a9-a1e8-a9c4721ded6a)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+778,Q1,What is the patient's main concern?,The patient is unsure how to handle romantic feelings for a close friend while not feeling ready for a new relationship.,,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916dd-1498aefb1435b5dc05a47334;6f627002-bbbe-4dd7-9f52-6c5dbab0cd9f)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+778,Q2,Are suicidal thoughts mentioned in the interview?,"No, suicidal thoughts are not mentioned.",,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916de-20b978ed090cd636578cab35;82cae458-4ecb-4f6f-9661-9c329e845f75)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+778,Q3,What explicit emotions are mentioned in the interview?,No explicit emotions are mentioned.,,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916de-633870411bd93e487359fa75;1c490a9b-d199-43f6-9755-88b77a2237ed)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+778,Q4,What behavior or subjective experience does the patient describe?,"The patient reports kissing a close male friend, being told they should stay friends, recently getting out of a relationship, not being a sexual person, wanting to be with him, not feeling ready for another relationship, and being unsure whether he will want more than friendship.",,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916df-7f1c91035f5a9e9a2de76485;01c414a5-3b66-4134-9cbf-84402c585494)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+778,Q5,"Is there any mention of risk, self-harm, or urgent referral?","No mention of self-harm, urgent referral, or immediate risk is found.",,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916e0-6f597762199b05db1b000817;6d5616af-5c00-4620-957a-cd2897b5146e)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+781,Q1,What is the patient's main concern?,The patient is asking how to support her best friend through a possible breakup while managing her own feelings for him.,,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916e0-695fc541237252734931dec8;9cea1ca1-5f3a-44c9-8b0b-2209d74998e6)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+781,Q2,Are suicidal thoughts mentioned in the interview?,"No, suicidal thoughts are not mentioned.",,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916e1-3614c69b32a95d9533bc3ece;c2705458-02d4-43ed-9b29-ea53f6e7744c)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+781,Q3,What explicit emotions are mentioned in the interview?,concerned,,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916e1-6579cf13259017b528251a05;9da0087b-ef20-4be0-b2db-f04e28cae1b4)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+781,Q4,What behavior or subjective experience does the patient describe?,"The patient reports that her best friend is worried about his girlfriend leaving for college, is considering breaking up with her, seems torn up, and says he may never be able to love anyone again; she also reports still having a crush on him and wanting to help him.",,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916e2-3d4061d16df1bde53a63f082;0a12c616-d7f3-48fa-aab0-6fdb798bce67)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+781,Q5,"Is there any mention of risk, self-harm, or urgent referral?","No mention of self-harm, urgent referral, or immediate risk is found.",,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916e3-4d77ee6f7e6cfcbc251edc24;deb4809d-e6fc-496b-a2d0-6b3572f4d871)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+783,Q1,What is the patient's main concern?,The patient is unsure whether to stay in or leave an unstable on-and-off relationship.,,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916e3-178dacfa5cee79965b821684;b8cfbfe8-38da-4293-a0fd-907f71ae4d7a)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+783,Q2,Are suicidal thoughts mentioned in the interview?,"No, suicidal thoughts are not mentioned.",,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916e4-67b06a0826741e9e1fde6cc7;e9f910f2-56f6-4903-8fd0-439d2bd745c8)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+783,Q3,What explicit emotions are mentioned in the interview?,No explicit emotions are mentioned.,,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916e4-6dee7db13a1525b0603133f0;224f9c0b-83af-4322-bc14-d2a300d9d798)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+783,Q4,What behavior or subjective experience does the patient describe?,"The patient reports repeated breakups and reconciliations over two years, says his girlfriend acts as if nothing happened after breakups, describes her as demanding, and says he feels unable to give her everything she wants.",,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916e5-7286e5e555de93324aea1d49;2ae98ef4-b233-4c5e-aaad-657fa48207dd)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+783,Q5,"Is there any mention of risk, self-harm, or urgent referral?","No mention of self-harm, urgent referral, or immediate risk is found.",,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916e6-1741c77528576f0841ea4094;81ed223d-8aa7-4ba3-9fa1-4e453b820782)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+788,Q1,What is the patient's main concern?,The patient is upset that her boyfriend was unsupportive during her emergency room visit and that they keep arguing.,,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916e6-59d114c41d20a7360d6faaa7;0c365dd6-3c02-44a8-8f84-c873449d546c)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+788,Q2,Are suicidal thoughts mentioned in the interview?,"No, suicidal thoughts are not mentioned.",,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916e7-1cb5d16b2852da2d4132b077;34103094-1545-49f0-8aab-5bef5bea463b)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+788,Q3,What explicit emotions are mentioned in the interview?,mad,,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916e7-083dd5b31c8809fc74e71302;05fd4cd8-8565-4eb3-8281-52acc5517fac)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+788,Q4,What behavior or subjective experience does the patient describe?,"The patient reports going to the emergency room for a spine X-ray, her boyfriend not wanting to wait with her, him being twenty minutes late to pick her up, and ongoing bickering over small things.",,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916e8-041c666b198646841e0fe475;aa18d87b-b581-4312-96e0-565a6d895034)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+788,Q5,"Is there any mention of risk, self-harm, or urgent referral?","No mention of self-harm, urgent referral, or immediate risk is found.",,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916e9-7086a23c65db2fde5bbf16e5;9c272888-28e5-4506-a644-e552c205fc43)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+828,Q1,What is the patient's main concern?,The patient is confused about their gender and does not know how to answer when others ask.,,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916ea-61b797e317a1ddf758f6160c;5172cc6b-f93e-4514-8ed0-79efc3bb20b7)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+828,Q2,Are suicidal thoughts mentioned in the interview?,"No, suicidal thoughts are not mentioned.",,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916ea-5ec41db03c1572b077ad8fc7;dfe96939-3934-4491-aa5a-c60bdc79f0e4)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+828,Q3,What explicit emotions are mentioned in the interview?,confused,,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916eb-4fdd18621e010de7346a9ee4;e9201758-3c6e-4fc4-b334-b922c6245074)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+828,Q4,What behavior or subjective experience does the patient describe?,"The patient reports being born a girl, looking like a boy, sometimes feeling like a different variation of gender, and usually stating their birth gender when asked because of confusion.",,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916eb-01f691cf12ac0ff506beece3;d18b7865-6998-4a53-8d2e-b24ed2e998d2)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+828,Q5,"Is there any mention of risk, self-harm, or urgent referral?","No mention of self-harm, urgent referral, or immediate risk is found.",,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916ec-7ad736c207f89245395db51b;e9c104b6-fac4-4bb2-a90d-18aefe2f7921)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+845,Q1,What is the patient's main concern?,The patient is struggling to avoid eating junk food despite trying to eat healthier.,,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916ed-7f591b146b4011b42485f1d3;751c7825-f465-4ee1-aa2b-d317b06acf68)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+845,Q2,Are suicidal thoughts mentioned in the interview?,"No, suicidal thoughts are not mentioned.",,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916ed-2bcedc4401c19a49690c3782;08aad6b2-247d-4a5d-a13e-2f656cff2d8d)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+845,Q3,What explicit emotions are mentioned in the interview?,No explicit emotions are mentioned.,,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916ee-5b8f70922d20bd861ece7f92;6d915297-9e14-4937-ad60-25fe089c2858)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+845,Q4,What behavior or subjective experience does the patient describe?,The patient reports trying to work out and eat fruits and vegetables but repeatedly eating the junk food in the house.,,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916ef-7520c66c12220bf530be3da8;102d180f-b699-4136-b2b8-6d321678a048)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+845,Q5,"Is there any mention of risk, self-harm, or urgent referral?","No mention of self-harm, urgent referral, or immediate risk is found.",,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916f0-196a34977d1dcfc47cb06008;bf91fda3-1f4c-46a0-9757-47413ddf8086)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+871,Q1,What is the patient's main concern?,The patient wants to know whether they are “really crazy.”,,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916f0-647b50570060c29615c12166;0e608997-4fe6-40f1-a6bd-2afd5f6b8afc)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+871,Q2,Are suicidal thoughts mentioned in the interview?,"No, suicidal thoughts are not mentioned.",,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916f1-69590cba5df6394022943532;95734041-247b-42bb-9570-a73a45d2609f)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+871,Q3,What explicit emotions are mentioned in the interview?,No explicit emotions are mentioned.,,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916f2-2f4f1fb80550e6e8247292da;9a2a1665-cadf-4bf0-a8e9-6ab4606aeccb)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+871,Q4,What behavior or subjective experience does the patient describe?,The patient asks whether they are really crazy.,,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916f2-679953be78be778825fbc216;719d9b43-55c0-4560-89ac-93b4a8960eaf)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+871,Q5,"Is there any mention of risk, self-harm, or urgent referral?","No mention of self-harm, urgent referral, or immediate risk is found.",,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916f3-65296bb913568ce026f0ada9;a97b1ad8-169a-4b43-a827-f2348f338a8d)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+877,Q1,What is the patient's main concern?,The patient is concerned about a behavior that causes bleeding but does not seem to cause infections or scars.,,[],The exact behavior is not explicitly named by the patient.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916f4-6843aa01499fbf3127039f4d;e8894f93-3742-4f91-a27a-c3312a405874)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+877,Q2,Are suicidal thoughts mentioned in the interview?,"No, suicidal thoughts are not mentioned.",,[],The exact behavior is not explicitly named by the patient.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916f4-0821dd5c26d71de94dc7bc1a;9224f5d3-e08e-483e-92db-0aa9ab3c1972)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+877,Q3,What explicit emotions are mentioned in the interview?,concerned,,[],The exact behavior is not explicitly named by the patient.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916f5-6494b4e2263a89e1440d5a5a;e537dc4b-529f-4cc6-93e3-9dfaac71ebdd)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+877,Q4,What behavior or subjective experience does the patient describe?,The patient reports that the behavior does not cause infections or scars and that it does not bother them if it fills with blood.,,[],The exact behavior is not explicitly named by the patient.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916f6-55410fd74ec5168828556f8d;7fab0c8a-cd3c-4eec-a38f-dc2a196fee04)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+877,Q5,"Is there any mention of risk, self-harm, or urgent referral?",Self-harm or self-injury is explicitly mentioned through a behavior that causes bleeding and possible body damage.,,[],The exact behavior is not explicitly named by the patient.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916f7-7d02aeaf54bf412e57b605a9;2a4625c1-572c-4d99-a593-122427eb8485)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+902,Q1,What is the patient's main concern?,The patient wants help dealing with stress and feeling less stressed out.,,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916f7-5a084752541ab94743d5ebb1;e1576830-d116-4c91-9a47-e54def5bb7d0)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+902,Q2,Are suicidal thoughts mentioned in the interview?,"No, suicidal thoughts are not mentioned.",,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916f8-20fb2de35ab480e10140f90c;3680499a-e06b-4fae-aea7-473939bff4d8)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+902,Q3,What explicit emotions are mentioned in the interview?,stressed,,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916f8-4c8e53551c5a7aa85091aa5a;0f3f5d40-0219-462b-bde5-20ee5f774df2)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+902,Q4,What behavior or subjective experience does the patient describe?,The patient reports needing help handling stress and wanting to feel less stressed out.,,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916f9-45cdca3a46d6870a228c2b69;2c2ce373-a075-49fc-b3b5-538730156d51)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+902,Q5,"Is there any mention of risk, self-harm, or urgent referral?","No mention of self-harm, urgent referral, or immediate risk is found.",,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916fa-74e8d36606aa1ed569cdab67;c78046a5-2e83-4206-8aea-d803c94ddb6d)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+913,Q1,What is the patient's main concern?,The patient is bothered by people making jokes about everything.,,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916fa-7d3c47c51fd491225dc0c29e;69b4c58a-e5e9-4455-bf8a-dc8c771729ea)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+913,Q2,Are suicidal thoughts mentioned in the interview?,"No, suicidal thoughts are not mentioned.",,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916fb-57dd784d4f87d6ce7a3c7ae6;f0efa603-4aa9-49b3-b130-97c939a3395c)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+913,Q3,What explicit emotions are mentioned in the interview?,No explicit emotions are mentioned.,,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916fc-248da8e4362caa2b0f92e8a1;b950e4a9-7b6e-46fc-8794-b81d0ee4fdc7)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+913,Q4,What behavior or subjective experience does the patient describe?,The patient reports that people make “jokes” about everything and seem to need to say something “funny” about everything.,,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916fc-5d7c93f43d620c1511eec24a;9cf895c3-cb30-40a5-ac47-538305caf9e8)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
+913,Q5,"Is there any mention of risk, self-harm, or urgent referral?","No mention of self-harm, urgent referral, or immediate risk is found.",,[],None.,"402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-69d916fd-281be81858aecfe2009483d5;63dc1f49-84a3-4a4f-b5e4-99b2caf22257)
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."
