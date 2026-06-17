@@ -65,3 +65,83 @@ Para utilizar la base de datos pre-indexada sin necesidad de volver a ejecutar l
 ```bash
 git clone <url-del-repositorio>
 cd TFG
+```
+
+### 2. Crear y activar el entorno virtual
+*   **En Windows (PowerShell):**
+    ```powershell
+    python -m venv .venv
+    .venv\Scripts\Activate.ps1
+    ```
+*   **En macOS/Linux:**
+    ```bash
+    python -m venv .venv
+    source .venv/bin/activate
+    ```
+
+### 3. Instalar dependencias
+```bash
+pip install --upgrade pip
+pip install -r requirements.txt
+```
+
+### 4. Configurar variables de entorno
+El backend requiere un token de acceso de Hugging Face para realizar inferencias con el modelo Llama. Configure la variable de entorno correspondiente en su sistema o consola:
+
+*   **Windows (PowerShell):**
+    ```powershell
+    $env:HF_TOKEN="tu_token_de_hugging_face_aqui"
+    ```
+*   **macOS/Linux:**
+    ```bash
+    export HF_TOKEN="tu_token_de_hugging_face_aqui"
+    ```
+
+*(Opcional)* Si desea activar el modo de depuración detallado en consola, configure:
+```powershell
+$env:CDSS_DEBUG="1"
+```
+
+---
+
+## 💻 Uso de la Aplicación
+
+### Ingesta de Datos (Opcional)
+Si ha modificado las entrevistas en `data/entradas/` o los manuales en `data/manuales/`, o si ha eliminado la base de datos previa, puede volver a indexar todo ejecutando:
+```bash
+python ingest_bulk.py
+```
+*Nota: Este script no re-ingestará los archivos que ya se encuentren registrados en los metadatas de Chroma para optimizar el tiempo de ejecución.*
+
+### Iniciar la Aplicación Streamlit
+Para levantar el servidor local y abrir la interfaz de usuario:
+```bash
+streamlit run app.py
+```
+Una vez iniciado, Streamlit abrirá de forma automática una pestaña en su navegador (habitualmente en `http://localhost:8501`).
+
+La aplicación incluye dos roles de acceso iniciales por defecto (los cuales se pueden gestionar o modificar dentro del código de `app.py`):
+*   **Terapeuta:** Cuenta con acceso a las pestañas de **Interviews** (visualizar y buscar casos) y **Clinical Chat** (interactuar mediante RAG con el caso seleccionado).
+    *   *Usuario:* `therapist` | *Contraseña:* `therapist123`
+*   **Administrador:** Acceso completo a todas las pestañas, incluyendo **RAG Evaluation** y la consola de **Admin / Debug**.
+    *   *Usuario:* `admin` | *Contraseña:* `admin123`
+
+---
+
+## 📊 Evaluación del Sistema
+
+El proyecto incluye dos flujos de evaluación para medir el desempeño de las respuestas y la fidelidad del contexto recuperado.
+
+### 1. Evaluación Básica (Local y Rápida)
+Compara las respuestas generadas o cargadas contra un dataset de validación (`ground_truth_long.csv`). Mide cobertura de formato (cumplir exactamente las 3 líneas requeridas), presencia/ausencia de palabras de riesgo y solapamiento léxico sin necesidad de API de pago de modelos juez.
+```bash
+python run_basic_eval.py --input ground_truth_long.csv
+```
+Los resultados detallados se guardarán automáticamente en la carpeta `basic_eval_outputs/`.
+
+### 2. Evaluación RAGAS (Avanzada)
+Utiliza la metodología Ragas con modelos juez remotos a través del hub de Hugging Face para evaluar métricas semánticas complejas:
+```bash
+python run_ragas_eval.py
+```
+Los resultados e históricos de métricas se almacenarán en `ragas_eval_outputs/`.
