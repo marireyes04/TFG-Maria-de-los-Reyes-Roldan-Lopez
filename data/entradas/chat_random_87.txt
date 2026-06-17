@@ -1,0 +1,5 @@
+Contexto: Sesión de terapia sobre depression (Idioma: Inglés)
+ID_Caso: 87
+Entrevistador: (Inicia sesión) Hello, how can I help you today?
+Paciente: I stopped for a while, but I’ve started doing it again. It’s like an addiction. The more I try to stop, the more I want to do it. I’ve tried doing some of the stuff they say to do like draw, but it doesn’t work.
+Entrevistador: I've heard people say that they cut themselves as a way to feel relief from different emotions. You're also right that when you try to focus on just not cutting, it becomes more difficult because it's what you are focused on. While that is still something to work on, it may also be helpful to find something else you can do instead. You said drawing doesn't work for you. Sometimes more physical activities, such as doing a few jumping jacks, can be helpful. If you don't exercise, it might be something to talk with your doctor about first.The more you can learn about what makes you want to cut, the easier it will be to find out what you could do to change that. Try talking to somebody about what you are feeling in addition to the urge to cut.

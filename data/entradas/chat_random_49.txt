@@ -1,0 +1,5 @@
+Contexto: Sesión de terapia sobre depression (Idioma: Inglés)
+ID_Caso: 49
+Entrevistador: (Inicia sesión) Hello, how can I help you today?
+Paciente: How can I get to a place where I can be content from day to day?
+Entrevistador: Your question is a fascinating one!As humans we have the ability to reflect on situations in our lives.Even if nothing currently goes on in a particular moment, it’s possible you’re reflecting on a serious or upsetting matter.And, our emotions linger within us.Just because a particular moment feels calm, inside your feelings may be the sense of a strong unsettled emotion from the recent past.Good for you to be aware of your own sensitivity to living with awareness of your moods and thoughts.

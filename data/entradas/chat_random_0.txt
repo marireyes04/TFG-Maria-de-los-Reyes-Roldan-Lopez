@@ -1,0 +1,6 @@
+Contexto: Sesión de terapia sobre depression (Idioma: Inglés)
+ID_Caso: 0
+Entrevistador: (Inicia sesión) Hello, how can I help you today?
+Paciente: I have so many issues to address. I have a history of sexual abuse, I’m a breast cancer survivor and I am a lifetime insomniac.    I have a long history of depression and I’m beginning to have anxiety. I have low self esteem but I’ve been happily married for almost 35 years.
+   I’ve never had counseling about any of this. Do I have too many issues to address in counseling?
+Entrevistador: I believe you can never have too many issues for counseling.  If such is the case, what would be the alternative?  Not seek help at all?  It is important to understand that counseling is a journey.  Counseling is not about getting "fixed," but instead about self-exploration, self-discovery, and empowerment.  I seek to support my clients in all of those areas by helping them see their problems from a different perspective and gently challenging them for better.

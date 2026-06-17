@@ -1,0 +1,5 @@
+Contexto: Sesión de terapia sobre intimacy (Idioma: Inglés)
+ID_Caso: 501
+Entrevistador: (Inicia sesión) Hello, how can I help you today?
+Paciente: So many people lie, and it's hard to tell who speaks the truth. Who do I trust? I don't even trust my family or friends.
+Entrevistador: Start by trusting yourself.This is harder to do than it may sound.If a person trusts themselves, their actions, decisions, way of handling matters, then evaluating whether or not to trust another human being, becomes much easier.Also, don't be in a rush to trust someone.   Trust takes time to develop.   First observe someone, listen to the person, whether they follow through.   Repeat this process multiple times, which requires time to accomplish.At a certain point in this process you will start to feel whether or not the person is trustworthy or not.

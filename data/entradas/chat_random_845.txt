@@ -1,0 +1,5 @@
+Contexto: Sesión de terapia sobre behavioral-change (Idioma: Inglés)
+ID_Caso: 845
+Entrevistador: (Inicia sesión) Hello, how can I help you today?
+Paciente: I've tried working out and eating fruits and vegetables, but I always seem to eat the junk in the house.
+Entrevistador: I know some people do better when they don't have as much junk food in the house. This is not as tempting then. Having said that, maybe you can reward yourself with different things, such as having dessert on certain days. If you are concerned about mostly eating habits, consider seeing a nutritionist. They can help you find the balance between what it is that you really want and your goals. I'm not sure how this links to happiness for you, but hopefully looking at your choices can lead you toward your goal of being healthier.
